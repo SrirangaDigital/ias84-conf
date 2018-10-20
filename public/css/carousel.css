@@ -39,6 +39,9 @@
     -o-transition: 0.3s ease-in-out left;
     transition: 0.3s ease-in-out left;
 }*/
+.carousel-inner{
+    margin-top: 61px;
+}
 .carousel-control {
     color: #FFF;
 }
@@ -68,7 +71,7 @@
     border-top: 3px solid #ea5644;
 }
 .caption-content {
-    padding: 30px;
+    padding: 10px;
 }
 .caption-title {
     font-weight: 700;

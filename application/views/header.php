@@ -35,10 +35,10 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css"> -->
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/navbar.css?v=1.4">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/carousel.css?v=1.1">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/carousel.css?v=1.2">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/page.css?v=1.4">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/archive.css?v=1.1">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/general.css?v=1.3">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/general.css?v=1.4">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/flat.css?v=1.1">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/form.css?v=1.1">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/aux.css?v=1.1">
@@ -73,13 +73,12 @@
                     <li class="navSeparator"><a>·</a></li>
                     <li><a href="<?=BASE_URL?>#speakers">Speakers</a></li>
                     <li class="navSeparator"><a>·</a></li>
+                    <li><a href="javascript:void(0);">Registration</a></li>
+                    <!-- <li><a href="<?=BASE_URL?>Gallery">Gallery</a></li> -->
+                    <li id="navLogo"><a href="<?=BASE_URL?>#home"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Academy of Sciences" class="img-circle logo"></a></li>
                     <li><a href="<?=BASE_URL?>Schedule">Schedule</a></li>
                     <li class="navSeparator"><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>Gallery">Gallery</a></li>
-                    <li id="navLogo"><a href="<?=BASE_URL?>#home"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Academy of Sciences" class="img-circle logo"></a></li>
                     <li><a href="<?=BASE_URL?>#information">For Participants</a></li>
-                    <li class="navSeparator"><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>Information/Downloads">Downloads</a></li>
                     <li class="navSeparator"><a>·</a></li>
                     <li><a href="<?=BASE_URL?>Information/Contact">Contact</a></li>
                 </ul>

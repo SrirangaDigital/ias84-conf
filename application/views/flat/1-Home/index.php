@@ -1,44 +1,46 @@
 <script type="text/javascript">
-$(document).ready(function() {
+    $(document).ready(function() {
 
-    var htmlWidth = $('html').outerWidth();
+        var htmlWidth = $('html').outerWidth();
 
-    if(htmlWidth >= 768)
-        $('#social .info-icon i').css("line-height", $('#twitterContainer').height() + "px");
+        if(htmlWidth >= 768)
+            $('#social .info-icon i').css("line-height", $('#twitterContainer').height() + "px");
 
-    var containerWidth = $('.container').outerWidth();
+        var containerWidth = $('.container').outerWidth();
 
-    var gutter = $('.fancy .text').css('margin-left').replace("px", "");
+        var gutter = $('.fancy .text').css('margin-left').replace("px", "");
 
-    $('.fancy .text').each(function(){
+        $('.fancy .text').each(function(){
 
-        $(this).before('<span class="before">&nbsp;</span>');
-        $(this).after('<span class="after">&nbsp;</span>');
+            $(this).before('<span class="before">&nbsp;</span>');
+            $(this).after('<span class="after">&nbsp;</span>');
 
-        var fancyWidth = Math.round((containerWidth - $(this).outerWidth() - (4 * gutter)) / 2);
+            var fancyWidth = Math.round((containerWidth - $(this).outerWidth() - (4 * gutter)) / 2);
 
-        $(this).prev('.before').css("width", fancyWidth);
-        $(this).next('.after').css("width", fancyWidth);
-    });    
-});
+            $(this).prev('.before').css("width", fancyWidth);
+            $(this).next('.after').css("width", fancyWidth);
+        });    
+    });
 </script>
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
 
-<div class="container clear-paddings" id="home">
-    <div class="row first-row">
+<div class="container clear-paddings">
+    <!-- <div class="row first-row">
         <div class="col-md-12 clear-paddings">
             <div class="fixOverlayDivHome">
-                <!-- <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/banner.jpg" alt="Credits: Nohkalikai Falls, 50 kilometres outside Shillong, is among several stunning waterfalls in Meghalaya. Daniel J. Rao / Alamy / phocalmedia.com"> -->
-<!--                 <div class="OverlayTextMain">
-                    <div class="mainpage">
-                        <h2>83<sup>rd</sup> Annual Meeting</h2>
-                        <p>3&ndash;5 November 2017 <br />North-Eastern Hill University, Shillong</p>
-                    </div>
-                </div> -->
+               <div class="override-carousel-caption pos-c-full scheme-dark">
+                <div class="caption-content">
+                    <h3>29<sup>th</sup> Mid Year Meeting</h3>
+                    <p>
+                        29<sup>th</sup> &amp; 30<sup>th</sup> June 2018<br /> 
+                        Venue: Mahatma Gandhi Hall, Infosys Leadership Institute,<br />Mysore Development Centre, Mysuru<br>
+                    </p>
+                </div>
             </div>
         </div>
-    </div>
+    </div> -->
+</div>
 </div>
 
 <div class="container clear-paddings">
@@ -46,15 +48,14 @@ $(document).ready(function() {
         <div class="col-md-2 col-xs-12">
             <div class="intro logos">
                 <p>
-                    <img src="<?=PUBLIC_URL?>images/logo.png" alt="IAS Logo" /><br />
-                    <img src="<?=PUBLIC_URL?>images/stock/nehulogo.png" alt="North-Eastern Hill University Logo" />
+                    <img src="<?=PUBLIC_URL?>images/logo.png" alt="IAS Logo" />
                 </p>
             </div>
         </div>
         <div class="col-md-10">
             <div class="intro">
-                <p>The Indian Academy of Sciences, Bengaluru, through many scientific meetings, symposia, and public lectures it organizes, aims to facilitate scientific exchange among researchers and to highlight novel findings both within the scientific community and the public. The Mid-Year Meetings held during July at Bengaluru and the Annual Meetings held during November at different scientific institutions in the country are the two major annual events of the Academy in this context. The events every year see enthusiastic participation of the Fellowship of the Academy along with researchers, teachers, students, and other invitees across the nation.</p>
-                <p>The <strong>83rd Annual Meeting of the Academy</strong> is being organized during <strong>3&ndash;5 November 2017 at North-Eastern Hill University, Shillong.</strong></p>
+                <p>The Indian Academy of Sciences, Bengaluru, through many scientific meetings, symposia, and public lectures it organizes, aims to facilitate exchange of scientific insights among researchers and to highlight novel findings both within the scientific community and the public. The Mid-Year Meetings held during June/July at Bengaluru and the Annual Meetings held during November at different scientific institutions in the country are the two major annual events of the Academy in this context. The events every year see enthusiastic participation of the Fellowship of the Academy along with researchers, teachers, students and other invitees across the nation.</p>
+                <p>The <strong>84th Annual Meeting of the Academy</strong> is being organized during <strong>2<sup>nd</sup> November 2018 &mdash; 4<sup>th</sup> November 2018, at Banaras Hindu University, Varanasi.</strong></p>
             </div>
         </div>
     </div>        
@@ -66,13 +67,13 @@ $(document).ready(function() {
     <div class="row">
         <div class="col-md-12">
            <p class="subtitle fancy"><span class="text">Registration</span></p>
-        </div>
+       </div>
+   </div>
+   <div class="row">
+    <div class="col-md-12">
+        <p class="reg">All registered participants are requested to collect the registration kit at the meeting venue on Friday, 29 June at 9.00 am.</p>
     </div>
-    <div class="row">
-        <div class="col-md-12">
-            <p class="reg">Fellows of the Academy and invited teachers who have not yet registered,<br /> please register <a href="http://web-japps.ias.ac.in:8080/Annualmeeting2017/annual/register/Register.jsp" target="_blank">here</a></p>
-        </div>
-    </div>
+</div>
 </div> -->
 
 <!--Speakers -->
@@ -84,9 +85,9 @@ $(document).ready(function() {
     </div>
     <div class="row">
         <div class="col-md-12">
-            <p class="speaker-type">Presidential Address</p>
-            <a href="<?=BASE_URL?>describe/profile/1508569913576">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508569913576/profile.jpg" class="speaker-thumbnail" alt="Ramakrishna Ramaswamy" title="Ramakrishna Ramaswamy"/>
+            <p class="speaker-type">Presided by</p>
+            <a href="<?=BASE_URL?>Speakers/Ram_Ramaswamy">
+                <img src="<?=STOCK_IMAGE_URL?>/speaker/001.jpg" class="speaker-thumbnail" alt="Ramakrishna Ramaswamy" title="Ramakrishna Ramaswamy"/>
                 <figcaption class="figure-caption text-xs-right">Ramakrishna Ramaswamy</figcaption>
             </a>
         </div>
@@ -94,162 +95,153 @@ $(document).ready(function() {
     <div class="row">
         <div class="col-md-12">
             <p class="speaker-type">Inaugural Lectures of Fellows &amp; Associates / Special Lectures / Public Lectures / Symposia Lectures</p>
-            <a href="<?=BASE_URL?>describe/profile/1508570403836">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508570403836/profile.jpg" class="speaker-thumbnail" alt="Shailesh Nayak" title="Shailesh Nayak"/>
-                <figcaption class="figure-caption text-xs-right">Shailesh Nayak</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/002.jpg" class="speaker-thumbnail" alt="N. B. Ramachandra" title="N. B. Ramachandra" />
+                <figcaption class="figure-caption text-xs-right">N. B. Ramachandra</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508571107398">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508571107398/profile.jpg" class="speaker-thumbnail" alt="Gobinda Majumder" title="Gobinda Majumder"/>
-                <figcaption class="figure-caption text-xs-right">Gobinda Majumder</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/003.jpg" class="speaker-thumbnail" alt="Swathi Tripathi" title="Swathi Tripathi" />
+                <figcaption class="figure-caption text-xs-right">Swathi Tripathi</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508571423313">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508571423313/profile.jpg" class="speaker-thumbnail" alt="G D Yadav" title="G D Yadav"/>
-                <figcaption class="figure-caption text-xs-right">G D Yadav</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/004.jpg" class="speaker-thumbnail" alt="Debanjan Bhowmick" title="Debanjan Bhowmick" />
+                <figcaption class="figure-caption text-xs-right">Debanjan Bhowmick</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508575237271">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508575237271/profile.jpg" class="speaker-thumbnail" alt="Abhishek Banerjee" title="Abhishek Banerjee"/>
-                <figcaption class="figure-caption text-xs-right">Abhishek Banerjee</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/005.jpg" class="speaker-thumbnail" alt="K. Vijayamohanan" title="K. Vijayamohanan" />
+                <figcaption class="figure-caption text-xs-right">K. Vijayamohanan</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508575295367">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508575295367/profile.jpg" class="speaker-thumbnail" alt="Navakanta Bhat" title="Navakanta Bhat"/>
-                <figcaption class="figure-caption text-xs-right">Navakanta Bhat</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/006.jpg" class="speaker-thumbnail" alt="Avesh K. Tyagi" title="Avesh K. Tyagi" />
+                <figcaption class="figure-caption text-xs-right">Avesh K. Tyagi</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508575347695">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508575347695/profile.jpg" class="speaker-thumbnail" alt="V Padmanabhan" title="V Padmanabhan"/>
-                <figcaption class="figure-caption text-xs-right">V Padmanabhan</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/007.jpg" class="speaker-thumbnail" alt="Bikramjit Basu" title="Bikramjit Basu" />
+                <figcaption class="figure-caption text-xs-right">Bikramjit Basu</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508575417180">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508575417180/profile.jpg" class="speaker-thumbnail" alt="Amrutur Bharadwaj" title="Amrutur Bharadwaj"/>
-                <figcaption class="figure-caption text-xs-right">Amrutur Bharadwaj</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/008.jpg" class="speaker-thumbnail" alt="Kanishka Biswas" title="Kanishka Biswas" />
+                <figcaption class="figure-caption text-xs-right">Kanishka Biswas</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508578388184">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578388184/profile.jpg" class="speaker-thumbnail" alt="Jaywant H Arakeri" title="Jaywant H Arakeri"/>
-                <figcaption class="figure-caption text-xs-right">Jaywant H Arakeri</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/009.jpg" class="speaker-thumbnail" alt="Geshe Samten" title="Geshe Samten" />
+                <figcaption class="figure-caption text-xs-right">Geshe Samten</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508578479647">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578479647/profile.jpg" class="speaker-thumbnail" alt="David R Syiemlieh" title="David R Syiemlieh"/>
-                <figcaption class="figure-caption text-xs-right">David R Syiemlieh</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/010.jpg" class="speaker-thumbnail" alt="Imran Siddiqi" title="Imran Siddiqi" />
+                <figcaption class="figure-caption text-xs-right">Imran Siddiqi</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508578565488">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578565488/profile.jpg" class="speaker-thumbnail" alt="R Bhatia" title="R Bhatia"/>
-                <figcaption class="figure-caption text-xs-right">R Bhatia</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/011.jpg" class="speaker-thumbnail" alt="A. J. Bhattacharyya" title="A. J. Bhattacharyya" />
+                <figcaption class="figure-caption text-xs-right">A. J. Bhattacharyya</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508578634671">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578634671/profile.jpg" class="speaker-thumbnail" alt="S Sankararaman" title="S Sankararaman"/>
-                <figcaption class="figure-caption text-xs-right">S Sankararaman</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/012.jpg" class="speaker-thumbnail" alt="Deepa Agashe" title="Deepa Agashe" />
+                <figcaption class="figure-caption text-xs-right">Deepa Agashe</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508578708917">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578708917/profile.jpg" class="speaker-thumbnail" alt="Maneesha S Inamdar" title="Maneesha S Inamdar"/>
-                <figcaption class="figure-caption text-xs-right">Maneesha S Inamdar</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/013.jpg" class="speaker-thumbnail" alt="Alok Bhattacharya" title="Alok Bhattacharya" />
+                <figcaption class="figure-caption text-xs-right">Alok Bhattacharya</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508578754980">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578754980/profile.jpg" class="speaker-thumbnail" alt="Devesh Walia" title="Devesh Walia"/>
-                <figcaption class="figure-caption text-xs-right">Devesh Walia</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/014.jpg" class="speaker-thumbnail" alt="D. Balasubramanian" title="D. Balasubramanian" />
+                <figcaption class="figure-caption text-xs-right">D. Balasubramanian</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508578815850">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578815850/profile.jpg" class="speaker-thumbnail" alt="Rajneesh Bhutani" title="Rajneesh Bhutani"/>
-                <figcaption class="figure-caption text-xs-right">Rajneesh Bhutani</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/015.jpg" class="speaker-thumbnail" alt="bhudevDas" title="bhudevDas" />
+                <figcaption class="figure-caption text-xs-right">bhudevDas</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508578881325">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578881325/profile.jpg" class="speaker-thumbnail" alt="Amalava Bhattacharyya" title="Amalava Bhattacharyya"/>
-                <figcaption class="figure-caption text-xs-right">Amalava Bhattacharyya</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/016.jpg" class="speaker-thumbnail" alt="C. S. Yajnik" title="C. S. Yajnik" />
+                <figcaption class="figure-caption text-xs-right">C. S. Yajnik</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508578929762">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578929762/profile.jpg" class="speaker-thumbnail" alt="Jyotiranjan S Ray" title="Jyotiranjan S Ray"/>
-                <figcaption class="figure-caption text-xs-right">Jyotiranjan S Ray</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/017.jpg" class="speaker-thumbnail" alt="Bhisma K. Patel" title="Bhisma K. Patel" />
+                <figcaption class="figure-caption text-xs-right">Bhisma K. Patel</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508578970512">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578970512/profile.jpg" class="speaker-thumbnail" alt="Aditya Kumar" title="Aditya Kumar"/>
-                <figcaption class="figure-caption text-xs-right">Aditya Kumar</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/018.jpg" class="speaker-thumbnail" alt="Dayananda Siddavattam" title="Dayananda Siddavattam" />
+                <figcaption class="figure-caption text-xs-right">Dayananda Siddavattam</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508579173678">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508579173678/profile.jpg" class="speaker-thumbnail" alt="Devendra Ojha" title="Devendra Ojha"/>
-                <figcaption class="figure-caption text-xs-right">Devendra Ojha</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/019.jpg" class="speaker-thumbnail" alt="jeevanjyoti chakraborty" title="jeevanjyoti chakraborty" />
+                <figcaption class="figure-caption text-xs-right">jeevanjyoti chakraborty</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508579240692">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508579240692/profile.jpg" class="speaker-thumbnail" alt="Giridhar U Kulkarni" title="Giridhar U Kulkarni"/>
-                <figcaption class="figure-caption text-xs-right">Giridhar U Kulkarni</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/020.jpg" class="speaker-thumbnail" alt="Srubabti Goswami" title="Srubabti Goswami" />
+                <figcaption class="figure-caption text-xs-right">Srubabti Goswami</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508579345904">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508579345904/profile.jpg" class="speaker-thumbnail" alt="Y Dhandapani" title="Y Dhandapani"/>
-                <figcaption class="figure-caption text-xs-right">Y Dhandapani</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/021.jpg" class="speaker-thumbnail" alt="Shabana Azmi" title="Shabana Azmi" />
+                <figcaption class="figure-caption text-xs-right">Shabana Azmi</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508579421484">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508579421484/profile.jpg" class="speaker-thumbnail" alt="Sanjoy Hazarika" title="Sanjoy Hazarika"/>
-                <figcaption class="figure-caption text-xs-right">Sanjoy Hazarika</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/022.jpg" class="speaker-thumbnail" alt="Suvendra Bhattacharyya" title="Suvendra Bhattacharyya" />
+                <figcaption class="figure-caption text-xs-right">Suvendra Bhattacharyya</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508579467434">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508579467434/profile.jpg" class="speaker-thumbnail" alt="Kedovikho Yhoshu" title="Kedovikho Yhoshu"/>
-                <figcaption class="figure-caption text-xs-right">Kedovikho Yhoshu</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/023.jpg" class="speaker-thumbnail" alt="S. M. Yusuf" title="S. M. Yusuf" />
+                <figcaption class="figure-caption text-xs-right">S. M. Yusuf</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508579513314">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508579513314/profile.jpg" class="speaker-thumbnail" alt="Ashutosh Ghosh" title="Ashutosh Ghosh"/>
-                <figcaption class="figure-caption text-xs-right">Ashutosh Ghosh</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/024.jpg" class="speaker-thumbnail" alt="Riddhipratim Basu" title="Riddhipratim Basu" />
+                <figcaption class="figure-caption text-xs-right">Riddhipratim Basu</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508579567303">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508579567303/profile.jpg" class="speaker-thumbnail" alt="Subhro Bhattacharjee" title="Subhro Bhattacharjee"/>
-                <figcaption class="figure-caption text-xs-right">Subhro Bhattacharjee</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/025.jpg" class="speaker-thumbnail" alt="P. Dastidar" title="P. Dastidar" />
+                <figcaption class="figure-caption text-xs-right">P. Dastidar</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508579612074">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508579612074/profile.jpg" class="speaker-thumbnail" alt="Piyush Srivastava" title="Piyush Srivastava"/>
-                <figcaption class="figure-caption text-xs-right">Piyush Srivastava</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/026.jpg" class="speaker-thumbnail" alt="Jayanth Vyasanakere" title="Jayanth Vyasanakere" />
+                <figcaption class="figure-caption text-xs-right">Jayanth Vyasanakere</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508580872780">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508580872780/profile.jpg" class="speaker-thumbnail" alt="Kaustuv Sanyal" title="Kaustuv Sanyal"/>
-                <figcaption class="figure-caption text-xs-right">Kaustuv Sanyal</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/027.jpg" class="speaker-thumbnail" alt="Partha Chakraborty" title="Partha Chakraborty" />
+                <figcaption class="figure-caption text-xs-right">Partha Chakraborty</figcaption>
             </a>
-            <a href="<?=BASE_URL?>describe/profile/1508580905111">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508580905111/profile.jpg" class="speaker-thumbnail" alt="Swapan K Datta" title="Swapan K Datta"/>
-                <figcaption class="figure-caption text-xs-right">Swapan K Datta</figcaption>
-            </a>
-            <a href="<?=BASE_URL?>describe/profile/1508581081913">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508581081913/profile.jpg" class="speaker-thumbnail" alt="Lalit Kumar" title="Lalit Kumar"/>
-                <figcaption class="figure-caption text-xs-right">Lalit Kumar</figcaption>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/028.jpg" class="speaker-thumbnail" alt="Vijay Chandru" title="Vijay Chandru" />
+                <figcaption class="figure-caption text-xs-right">Vijay Chandru</figcaption>
             </a>
         </div>
     </div>
 </div>
 
 <!-- Schedule -->
-<div class="container-fluid clear-paddings" id="schedule">
+<div class="container-fluid clear-paddings text-center" id="schedule">
     <div class="row">
         <div class="col-md-12">
             <p class="subtitle fancy"><span class="text">Schedule</span></p>
         </div>
     </div>
     <div class="row">
-        <div class="col-md-12 text-center">
+        <div class="col-md-12">
             <a href="<?=BASE_URL?>Schedule#day1">
                 <div id="block1" class="col-md-3 schedule-block">
                     <p class="dayNum">Day 1</p>
-                    <p class="date">3 Nov 2017</p>
+                    <p class="date">2<sup>nd</sup> November 2018</p>
                     <p class="day">Friday</p>
                 </div>
             </a>
             <a href="<?=BASE_URL?>Schedule#day2">
                 <div id="block2" class="col-md-3 schedule-block">
                     <p class="dayNum">Day 2</p>
-                    <p class="date">4 Nov 2017</p>
+                    <p class="date">3<sup>rd</sup> November 2018</p>
                     <p class="day">Saturday</p>
                 </div>
             </a>
-            <a href="<?=BASE_URL?>Schedule#day3">
+            <a href="<?=BASE_URL?>Schedule#day2">
                 <div id="block3" class="col-md-3 schedule-block">
                     <p class="dayNum">Day 3</p>
-                    <p class="date">5 Nov 2017</p>
+                    <p class="date">4<sup>th</sup> November 2018</p>
                     <p class="day">Sunday</p>
                 </div>
             </a>
-            <a href="<?=BASE_URL?>Schedule#allied">
-                <div id="block4" class="col-md-3 schedule-block" style="padding: 43px 0 42px">
-                    <p class="date">Allied Events</p>
-                    <p class="day">1, 2 &amp; 4 Nov 2017</p>
-                </div>
-            </a>
-            <a href="<?=BASE_URL?>Schedule#spouse">
-                <div id="block5" class="col-md-3 schedule-block" style="padding: 43px 0 43px">
-                    <p class="date" style="width: 80%">Teachers &amp; Spouses</p>
-                    <p class="day">2 &amp; 5 Nov 2016</p>
+            <a href="javascript:void(0);">
+                <div id="block4" class="col-md-3 schedule-block">
+                    <p class="dayNum">Allied Event</p>
+                    <p class="date">31<sup>st</sup> Oct &amp; 1<sup>st</sup> Nov</p>
+                    <p class="day">2018</p>
                 </div>
             </a>
         </div>
@@ -265,13 +257,13 @@ $(document).ready(function() {
     </div>
     <div class="row" style="line-height: 150px">
         <div class="col-md-12">
-            <a href="<?=BASE_URL?>Information/List_of_Participants" class="info-icon"><i class="fa fa-list-ul"></i><br />List of Participants</a>
-            <a href="<?=BASE_URL?>Information/Venue" class="info-icon"><i class="fa fa-map-marker"></i><br />Venue</a>
-            <a href="<?=BASE_URL?>Information/Accommodation" class="info-icon"><i class="fa fa-bed"></i><br />Hospitality</a>
-            <a href="<?=BASE_URL?>Information/Transport" class="info-icon"><i class="fa fa-bus"></i><br />Logistics</a><br />
-            <a href="<?=BASE_URL?>Information/Contact" class="info-icon"><i class="fa fa-phone"></i><br />Contact</a>
-            <a href="<?=BASE_URL?>Information/Downloads" class="info-icon"><i class="fa fa-download"></i><br />Downloads</a>
-            <a href="<?=BASE_URL?>Information/Other" class="info-icon"><i class="fa fa-ellipsis-h"></i><br />Other information</a>
+            <a href="javascript:void(0);" class="info-icon"><i class="fa fa-list-ul"></i><br />List of Participants</a><!-- <?=BASE_URL?>Information/List_of_Participants -->
+            <a href="javascript:void(0);" class="info-icon"><i class="fa fa-map-marker"></i><br />Venue</a>
+            <a href="javascript:void(0);" class="info-icon"><i class="fa fa-bed"></i><br />Hospitality</a>
+            <a href="javascript:void(0);" class="info-icon"><i class="fa fa-bus"></i><br />Logistics</a><br />
+            <a href="javascript:void(0);" class="info-icon"><i class="fa fa-phone"></i><br />Contact</a>
+            <a href="javascript:void(0);" class="info-icon"><i class="fa fa-download"></i><br />Downloads</a><!-- Information/Downloads -->
+            <a href="javascript:void(0);" class="info-icon"><i class="fa fa-ellipsis-h"></i><br />Other information</a><!-- Information/Other -->
         </div>
     </div>
 </div>
@@ -285,11 +277,11 @@ $(document).ready(function() {
     </div>
     <div class="row" id="twitterContainer">
         <div class="col-md-6 col-sm-12">
-            <a class="twitter-timeline"  href="https://twitter.com/search?q=%23IASc83AM%20from%3A%40IAScBng" data-widget-id="923905220559519744">Tweets about #IASc83AM from:@IAScBng</a>
-            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            <h3><a target="_blank" href="javascript:void(0);">Tweets about 84th annual meeting will be Coming soon</a></h3>
+            <!-- <h3><a target="_blank" href="https://twitter.com/search?q=%2329MYM%20from%3AIAScBng&src=savs">Click here to view tweets about #29MYM by @IAScBng</a></h3> -->
         </div>
         <div class="col-md-6 text-center col-sm-12">
-            <a target="_blank" title="YouTube" href="https://www.youtube.com/channel/UC5Aq2JESu0QLmP9WveZSvbQ" class="info-icon"><i class="fa fa-youtube"></i></a>
+            <a target="_blank" title="YouTube" href="javascript:void(0)" class="info-icon"><i class="fa fa-youtube"></i></a>
             <a target="_blank" title="Twitter" href="https://twitter.com/IAScBng" class="info-icon"><i class="fa fa-twitter"></i></a>
             <a target="_blank" title="Facebook" href="https://www.facebook.com/IAScBng" class="info-icon"><i class="fa fa-facebook"></i></a>
         </div>

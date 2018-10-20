@@ -9,7 +9,7 @@ class describeModel extends Model {
 
 	public function getProfileDetails($id){
 
-		$baseUrl = CMS_URL . 'public/data/meetings/AM2017/';
+		$baseUrl = CMS_URL . 'public/data/meetings/MM2018/';
 		$url = $baseUrl . $id . '/index.json';
 		$photoUrl = $baseUrl . $id . '/profile.jpg';
 

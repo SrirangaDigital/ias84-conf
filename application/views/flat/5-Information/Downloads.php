@@ -17,24 +17,15 @@
                 </li>
                 <li>
                     <strong>Schedules and Posters</strong><br />
-                    <a target="_blank" href="<?=DOWNLOAD_URL?>AMcardprn2017.pdf">Programme Card</a><br />
-                    <a target="_blank" href="<?=DOWNLOAD_URL?>AMprogposterprn2017.pdf">Programme</a><br />
-                    <a target="_blank" href="<?=DOWNLOAD_URL?>AMpublicandspecialecture2017.pdf">Special Lectures</a><br />
-                    <a target="_blank" href="<?=DOWNLOAD_URL?>AMsymposiaposteprn2017.pdf">Symposia</a>
-                </li>
-                <li>
-                    <a target="_blank" href="<?=DOWNLOAD_URL?>Conveners_list.pdf">List Of Conveners</a>
-                </li>                
-                <li>
-                    <a target="_blank" href="<?=DOWNLOAD_URL?>Organizing_Committee.pdf">Local Organizing Committee</a>
-                </li>
-                <li>
-                    <a target="_blank" href="http://www.ias.ac.in/public/Resources/Other_Publications/Annual_Reports/annrep2017.pdf">Annual report of the IASc</a>
+                    <a href="<?=DOWNLOAD_URL?>Card.pdf" target="_blank">Programme Card</a><br />
+                    <a href="<?=DOWNLOAD_URL?>Program.pdf" target="_blank">Programme</a><br />
+                    <a href="javascript:void(0);" target="_blank">Special Lectures</a><br />
+                    <a href="<?=DOWNLOAD_URL?>Symposia.pdf" target="_blank">Symposia</a>
                 </li>
             </ul>
         </div>
         <div class="col-md-3 sidebar">
-<?php require_once('application/views/generalSidebar.php');?>
+            <?php require_once('application/views/generalSidebar.php');?>
         </div>
     </div>
 </div>
