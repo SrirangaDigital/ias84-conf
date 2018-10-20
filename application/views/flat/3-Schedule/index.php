@@ -48,663 +48,502 @@
                 <ul class="nav nav-justified">
                     <li><a href="#day1">Day 1</a></li>
                     <li><a href="#day2">Day 2</a></li>
+                    <li><a href="#day3">Day 3</a></li>
                     <li><a href="#allied">Allied Events</a></li>
-                    <li><a href="#spouses">Spouses Programme</a></li>
-                    <li><a href="#cultural">Cultural Event</a></li>
                 </ul>
                 <div class="schedule-text" id="day1">
-                    <h3>29 June 2018 (Friday)</h3>
+                    <h3>2<sup>nd</sup> November 2018 (Friday)</h3>
                     <div class="session">
-                        <span class="type">Session 1A – Special Lecture</span><br /><br />
-                        Chairperson: H Sharat Chandra, Centre for Human Genetics, Bengaluru<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                0930 - 1010<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528533237319">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
+                                0900 - 0930
                             </dt>
                             <dd>
-                                <span class="speaker">G Nageswara Rao</span><br />
-                                LVPEI, Hyderabad<br />
-                                <span class="talk">Research, relevance and public good</span>
+                                <span class="talk">Registration</span>
                             </dd>
                         </dl>
                     </div>
                     <div class="session">
-                        <span class="type">Session 1B : Inaugural Lectures of Fellows/Associates</span><br /><br />
-                        Chairperson: Aswini Ghosh, IACS, Kolkata<br /><br />
+                        <span class="type">Session 1A: Inauguration &amp; Presidential Address</span><br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1010 - 1030<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528541501386">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
+                                0930 - 1100
                             </dt>
                             <dd>
-                                <span class="speaker">Ritabrata Munshi</span><br />
-                                ISI, Kolkata<br />
-                                <span class="talk">The subconvexity problem</span>
+                                <span class="speaker">Ram Ramaswamy</span><br />
+                                JNU, New Delhi<br />
+                                <span class="talk">The Uses Of Chance</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1035 - 1055<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528541501386">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
+                                1100 - 1115
                             </dt>
                             <dd>
-                                <span class="speaker">P. Anbarasan</span><br />
-                                IIT, Chennai<br />
-                                <span class="talk">Transition metal catalyzed selective functionalization of metallocarbenes to N-Heterocycles</span>
+                                <span class="speaker">Venue: Swatantrata Bhawan</span><br />
+                                <span class="talk">Group Photograph</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <span class="type">Session 1B: Inaugural Lectures by Fellows</span><br />
+                        Chairperson: Dhananjai Pandey, BHU, Varanasi<br /><br />
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1200 -1220
+                            </dt>
+                            <dd>
+                                <span class="speaker">Sanjay Kumar</span><br />
+                                BHU, Varanasi<br />
+                                <span class="talk">DNA inspired physics</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1225 - 1245
+                            </dt>
+                            <dd>
+                                <span class="speaker">S M Yusuf</span><br />
+                                BARC, Mumbai<br />
+                                <span class="talk">Low-dimensional spin systems and quantum magnetism</span>
                             </dd>
                         </dl>
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
                             <dt>
-                                1100 - 1120
-                            </dt>
-                            <dd>Tea break</dd>
-                        </dl>
-                    </div>
-                    <div class="session">
-                        <span class="type">Session 1C – Inaugural Lectures of Fellows/Associates</span><br />
-                        Chairperson: E Arunan, IISc, Bengaluru<br /><br />
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1120 - 1140<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528545446261">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">Anuradha Dube</span><br />
-                                CDRI, Lucknow<br />
-                                <span class="talk">Kala-Azar - a neglected disease of poverty: Search for affordable lasting cure</span>
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1145 - 1205<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528545530857">
-                                    <i class="fa fa-info-circle"></i></a>&nbsp;
-                                </div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">C Narayana</span><br />
-                                JNCASR, Bengaluru<br />
-                                <span class="talk">Application of Raman spectroscopy from condense matter to biology</span>
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1210 - 1230<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528545619677">
-                                    <i class="fa fa-info-circle"></i></a>&nbsp;
-                                </div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">Ramesh Hariharan</span><br />
-                                Strand Life Sciences, Bengaluru<br />
-                                <span class="talk">Industrializing genomic diagnoses in India</span>
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1235 - 1255<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528545718404">
-                                    <i class="fa fa-info-circle"></i></a>&nbsp;
-                                </div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">V K Gahalaut</span><br />
-                                MoES, New Delhi<br />
-                                <span class="talk">India plate motion and its interaction with Eurasian plate along the Himalayan and Indo-Burmese arc</span>
-                            </dd>
-                        </dl>
-                    </div>
-                    <div class="break">
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1300 - 1430
+                                1250 - 1400 
                             </dt>
                             <dd>Lunch Break</dd>
                         </dl>
                     </div>
                     <div class="session">
-                        <span class="type">Session 1D – Symposium on “Remembering Francis Crick: A multifaceted visionary scientist”</span><br />
+                        <span class="type">Session 1C: Inaugural Lectures by Associates</span><br />
+                        Chairperson: V C Thakur, Dehradun
                         <dl class="dl-horizontal">
                             <dt>
-                                1430 - 1500<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528546354066">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
+                                1400 - 1420
                             </dt>
                             <dd>
-                                <span class="speaker">Yamuna Krishnan</span><br />
-                                University of Chicago, USA<br />
-                                <span class="talk">Quantitative chemical imaging in vivo</span>
+                                <span class="speaker">Swati Tripathi</span><br />
+                                BSIP, Lucknow<br />
+                                <span class="talk">Multiproxy studies on dung of endangered Sangai (Rucervus eldii eldii ) and Hog deer (Axis porcinus) from Manipur, India: Implications to paleoherbivory and paleoecology</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1500 - 1530<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528546786186"><i class="fa fa-info-circle"></i></a>
-                                </div>
+                                1425 - 1445
                             </dt>
                             <dd>
-                                <span class="speaker">Rajan Sankaranarayanan</span><br />
-                                CCMB, Hyderabad<br />
-                                <span class="talk">Transfer RNAs: Not merely adaptor molecules in protein synthesis</span>
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1530 - 1600<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528547130878"><i class="fa fa-info-circle"></i></a>
-                                </div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">Souvik Maiti</span><br />
-                                IGIB, New Delhi<br />
-                                <span class="talk">RNA G-Quadruplex: Re-Search</span>
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1600 - 1630<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528547603085"><i class="fa fa-info-circle"></i></a>
-                                </div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">Manju Bansal</span><br />
-                                IISc, Bengaluru<br />
-                                <span class="talk">Francis Crick: A Renaissance scientist</span>
+                                <span class="speaker">Debanjan Bhowmik,</span><br />
+                                IIT Delhi, New Delhi<br />
+                                <span class="talk">Hardware implementation of neural network algorithms, based on machine learning and neuroscience models, using spintronic devices as non-volatile memory elements</span>
                             </dd>
                         </dl>
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
                             <dt>
-                                1630 - 1700
+                                1450 - 1530
                             </dt>
-                            <dd>High Tea</dd>
+                            <dd>Tea Break</dd>
                         </dl>
                     </div>                    
                     <div class="session">
-                        <span class="type">Session 1E – Public Lecture</span><br />
-                        Chairperson: R Ramaswamy, JNU, New Delhi<br /><br />
+                        <span class="type">Session 1D: Symposium: Materials of Today and Tomorrow</span><br />
+                        Chairpersons: A K Ganguli, IIT Delhi, New Delhi, and Giridhar Kulkarni, CeNS, Bengaluru<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1800 - 1900<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528780213265"><i class="fa fa-info-circle"></i></a>
+                                1530 - 1550
                             </dt>
                             <dd>
-                                <span class="speaker">Upinder Singh</span><br />
-                                University of Delhi, Delhi<br />
-                                <span class="talk">Politics and violence: Ancient debates on a perennial problem</span>
+                                <span class="speaker">A K Ganguli and Giridhar Kulkarni</span><br />
+                                <span class="talk">Introduction</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1900
+                                1555 - 1615
                             </dt>
                             <dd>
-                                <span class="aux">Cultural event</span>
+                                <span class="speaker">K Vijayamohanan</span><br />CECRI, Karaikudi<br />
+                                <span class="talk">Battery materials for electric vehicles: Today and tomorrow</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                2000
+                                1620 - 1640
                             </dt>
                             <dd>
-                                <span class="aux">Dinner</span>
+                                <span class="speaker">A K Tyagi</span>
+                                BARC, Mumbai<br />
+                                <span class="talk">Rational design of materials with tailored functionalities</span>
                             </dd>
                         </dl>
-                    </div>                    
-                </div>                        
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1645 - 1705
+                            </dt>
+                            <dd>
+                                <span class="speaker">Bikramjit Basu</span><br />
+                                IISc, Bengaluru<br />
+                                <span class="talk">Biomaterialomics: Data-driven accelerated pathways for next generation biomaterials</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1710 - 1730
+                            </dt>
+                            <dd>
+                                <span class="speaker">Kanishka Biswas</span><br />
+                                JNCASR, Bengaluru<br />
+                                <span class="talk">Low thermal conductive chalcogenides for high performance thermoelectric energy conversion</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="break">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1735 - 1800
+                            </dt>
+                            <dd>Tea Break</dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <span class="type">Session 1E: Public Lecture and Cultural Event</span><br />
+                        Chairperson: Ram Ramaswamy, JNU, New Delhi<br /><br />
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1800 - 1900
+                            </dt>
+                            <dd>
+                                <span class="speaker">Geshe Ngawang Samten</span><br />
+                                Central Institute of Higher Tibetan Studies, Varanasi<br />
+                                <span class="talk">Public Lecture: Buddhism and science</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1900 - 2000
+                            </dt>
+                            <dd>
+                                <span class="speaker">Smt N Rajam and group</span><br />
+                                <span class="talk">Cultural Event: Concert – Three generations on the violin</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="break">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                2000 - 2100
+                            </dt>
+                            <dd>Dinner Break</dd>
+                        </dl>
+                    </div>
+                </div>
                 <div class="schedule-text" id="day2">
-                    <h3>30 June 2018 (Saturday)</h3>
+                    <h3>3<sup>rd</sup> November 2018 (Saturday)</h3>
                     <div class="session">
-                        <span class="type">Session 2A – Inaugural Lectures of Fellows/Associates</span><br />
-                        Chairperson: Anil K Gupta, IIT, Kharagpur<br /><br />
+                        <span class="type">Session 2A: Special Lecture</span><br />
+                        Chairperson: N Sathyamurthy, JNCASR, Bengaluru<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                0930 - 0950<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528780285315">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
+                                0900 - 0940
                             </dt>
                             <dd>
-                                <span class="speaker">Manoj Kumar</span><br />
-                                GNDU, Amritsar<br />
-                                <span class="talk">Development of fluorescent probes for molecular recognition, bio-imaging and catalytic applications</span>
+                                <span class="speaker">Imran Siddiqi</span><br />
+                                CCMB, Hyderabad<br />
+                                <span class="talk">GM crops in the Indian context: Looking back, looking forward</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <span class="type">Session 2B: Inaugural Lectures by Fellows/Associates</span><br />
+                        Chairperson: E D Jemmis, IISc, Bengaluru<br /><br />
+                        <dl class="dl-horizontal">
+                            <dt>
+                                0940 - 1000
+                            </dt>
+                            <dd>
+                                <span class="speaker">Aninda J Bhattacharyya</span><br />
+                                IISc, Bengaluru<br />
+                                <span class="talk">Electrochemical energy storage via batteries: Prospects and limitations</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                0955 - 1015<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528780338082">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
+                                1005 - 1025
                             </dt>
                             <dd>
-                                <span class="speaker">Prabal K Maiti</span><br />
-                                IISc, Bengaluru<br />
-                                <span class="talk">Structure, dynamics and thermodynamics of confined water</span>
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1020 - 1040<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528780460560">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">Nagasuma Chandra</span><br />
-                                IISc, Bengaluru<br />
-                                <span class="talk">Identification of a host biomarker signature for detecting tuberculosis through a blood test</span>
+                                <span class="speaker">Deepa Agashe, NCBS, Bengaluru</span><br />
+                                <span class="talk">Host–microbial associations in a changing world</span>
                             </dd>
                         </dl>
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
                             <dt>
-                                1040 - 1100
+                                1030 - 1050
                             </dt>
                             <dd>Tea break</dd>
                         </dl>
                     </div>
                     <div class="session">
-                        <span class="type">Session 2B – Inaugural Lectures of Fellows/Associates</span><br />
-                        Chairperson: Chairperson: H Shekar Shetty, University of Mysore, Mysore<br /><br />
+                        <span class="type">Session 2C: Symposium: Community Health – A Genomic Perspective</span><br />
+                        Chairperson: Rajiva Raman, BHU, Varanasi<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1100 - 1120<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528780532447">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
+                                1050 - 1115
                             </dt>
                             <dd>
-                                <span class="speaker">Swagata Dasgupta</span><br />
-                                IIT, Kharagpur<br />
-                                <span class="talk">The evolving story of protein polyphenol interactions</span>
+                                <span class="speaker">Alok Bhattacharya</span><br />
+                                JNU, New Delhi<br />
+                                <span class="talk"> Genetics and biology of neuromuscular disorders: Unmet scientific need</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1125 - 1145<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528780601967">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
+                                1120 - 1145
                             </dt>
                             <dd>
-                                <span class="speaker">Varun Bhalerao</span><br />
-                                IIT, Mumbai<br />
-                                <span class="talk">Cosmic fireworks: Shining light on gravitational wave sources!</span>
+                                <span class="speaker">D Balasubramanian</span><br />
+                                L V Prasad Eye Institute, Hyderabad<br />
+                                <span class="talk">Translational research approach: Primary congenital glaucoma – Prevalence, genetics and collaboration between scientists and clinicians for successful treatment</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1150 - 1210<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528780746120">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
+                                1150 - 1215
                             </dt>
                             <dd>
-                                <span class="speaker">Maitrayee DasGupta</span><br />
-                                University of Calcutta, Kolkata<br />
-                                <span class="talk">Challenges in extending Symbiotic Nitrogen Fixation beyond current host range</span>
+                                <span class="speaker">Bhudev C Das</span><br />
+                                Amity University, Noida<br />
+                                <span class="talk">Public health genomics to innovative targeted therapeutic approaches for relapse-free survival of cancer patients</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1215 - 1235<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528780820756">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
+                                1220 -  1245
                             </dt>
                             <dd>
-                                <span class="speaker">Souvik Mahapatra</span><br />
-                                IIT, Mumbai<br />
-                                <span class="talk">Reliability of CMOS IC chips - from atoms to processors</span>
+                                <span class="speaker">C S Yajnik</span><br />
+                                KEM Hospital Research Centre, Pune<br />
+                                <span class="talk">Early life origins of diabetes in Indians</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1240 - 1300<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528780884615">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
+                                1250 -  1300
                             </dt>
                             <dd>
-                                <span class="speaker">C T Dhanya</span><br />
-                                IIT, New Delhi<br />
-                                <span class="talk">Hydrological Extremes and Hazard Modeling - Exploring the intricacies and predictability of the regional hydrologic system</span>
+                                <span class="talk">Discussion</span>
                             </dd>
                         </dl>
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
                             <dt>
-                                1300 - 1430
+                                1300 - 1400
                             </dt>
                             <dd>Lunch break</dd>
                         </dl>
                     </div>
                     <div class="session">
-                        <span class="type">Session 2C – Symposium on “Blockchains and Cryptocurrency”</span><br />
+                        <span class="type">Session 2D: Inaugural Lectures by Fellows/Associates</span><br />
+                        Chairperson: R K Srivastava, BHU, Varanasi<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1430 - 1500<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528780997404">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
+                                1400 - 1420
                             </dt>
                             <dd>
-                                <span class="speaker">Madhavan Mukund</span><br />
-                                CMI, Chennai<br />
-                                <span class="talk">Introduction to blockchains</span>
+                                <span class="speaker">Bhisma K Patel</span><br />
+                                IIT, Guwahati<br />
+                                <span class="talk">Fluorescent, AIEgen and cytotoxic behaviour of annulated polcyclic heteroaromatics</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1500 - 1530<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528781102284">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
+                                1425 - 1445
                             </dt>
                             <dd>
-                                <span class="speaker">Bimal Roy</span><br />
-                                ISI, Kolkata<br />
-                                <span class="talk">Cryptographic Primitives for Block Chains</span>
+                                <span class="speaker">S Dayananda</span><br />
+                                University of Hyderabad, Hyderabad<br />
+                                <span class="talk">Organophosphate hydrolase (OPH) exists as part of Ton complex in Sphingobium fuliginis ATCC27551 and plays a role in active transport of nutrients across energy deprived outer membrane</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1530-1600<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528781151167">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
+                                1450 - 1510
                             </dt>
                             <dd>
-                                <span class="speaker">S P Suresh</span><br />
-                                CMI, Chennai<br />
-                                <span class="talk">Bitcoin -- economic aspects</span>
+                                <span class="speaker">Jeevanjyoti Chakraborty</span><br />
+                                IIT, Kharagpur<br />
+                                <span class="talk">Diffusion, growth, and elasticity in batteries – A mathematical modelling perspective</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1600-1630<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1528781202981">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
+                                1515 - 1535
                             </dt>
                             <dd>
-                                <span class="speaker">R L Karandikar</span><br />
-                                CMI, Chennai<br />
-                                <span class="talk">Blockchains: Beyond Crypto currency</span>
+                                <span class="speaker">Srubabati Goswami</span><br />
+                                PRL, Ahmedabad<br />
+                                <span class="talk">Discovering CP violation in the lepton sector: Challenges and possibilities</span>
                             </dd>
                         </dl>
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
                             <dt>
-                                1630 - 1700
+                                1540 - 1600
                             </dt>
-                            <dd>High Tea</dd>
+                            <dd>Tea Break</dd>
                         </dl>
                     </div>
                     <div class="session">
-                        <span class="type">Session 2D – Special Lecture</span><br />
-                        Chairperson:  N Mukunda, Bengaluru<br /><br />                    
+                        <span class="type"></span><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1700 - 1740<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508578970512">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
+                                1600 -  1730
                             </dt>
                             <dd>
-                                <span class="speaker">R Sukumar</span><br />
-                                IISc, Bengaluru<br />
-                                <span class="talk">Thinking long-term in ecology: Insights from 3-decades of monitoring a tropical forest in Mudumalai</span>
+                                <span class="speaker">Venue: Senate Hall, Swatantrata Bhawan</span><br />
+                                <span class="talk">Business Meeting of Fellows</span>
                             </dd>
                         </dl>
-                    </div>        
+                    </div>
+                    <div class="break">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1730 - 1800
+                            </dt>
+                            <dd>Tea Break</dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <span class="type">Session 2E: Public Lecture</span><br />
+                        Chairperson: Ram Ramaswamy, JNU, New Delhi<br />
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1800 - 1900
+                            </dt>
+                            <dd>
+                                <span class="speaker">Shabana Azmi</span><br />
+                                Mumbai<br />
+                                <span class="talk">Changing faces of women in Hindi cinema</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="break">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1900 - 2030
+                            </dt>
+                            <dd>Dinner</dd>
+                        </dl>
+                    </div>
+                </div>
+                <div class="schedule-text" id="day3">
+                    <h3>4<sup>th</sup> November 2018 (Sunday)</h3>
+                    <div class="session">
+                        <span class="type">SESSION 3A: Inaugural Lectures by Fellows/Associates</span><br />
+                        Chairperson: S Ananthakrishnan, Savitribai Phule Pune University, Pune<br />
+                        <dl class="dl-horizontal">
+                            <dt>
+                                0900 - 0920
+                            </dt>
+                            <dd>
+                                <span class="speaker">Suvendra N Bhattacharyya</span><br />
+                                IICB, Kolkata<br />
+                                <span class="talk">Importance of cellular organelles in controlling miRNA-mediated gene expression in mammalian cells</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                0925 - 0945
+                            </dt>
+                            <dd>
+                                <span class="speaker">N B Ramachandra</span><br />
+                                University of Mysore, Mysuru<br />
+                                <span class="talk">Impact of copy number variations in genome organization, evolution and diseases</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                0950 - 1010
+                            </dt>
+                            <dd>
+                                <span class="speaker">Riddhipratim Basu</span><br />
+                                ICTS, Bengaluru<br />
+                                <span class="talk">Large scale geometry of randomly growing interfaces</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="break">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1015 - 1045
+                            </dt>
+                            <dd>Tea Break</dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <span class="type">SESSION 3B: Inaugural Lectures by Fellows/Associates</span><br />
+                        Chairperson: R L Karandikar, Chennai Mathematical Institute, Chennai<br />
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1045 - 1105
+                            </dt>
+                            <dd>
+                                <span class="speaker">P Dastidar</span><br />
+                                IACS, Kolkata<br />
+                                <span class="talk">From serendipity to designing molecular gels for drug delivery</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1110 - 1130
+                            </dt>
+                            <dd>
+                                <span class="speaker">Jayanth Vyasanakere</span><br />
+                                Azim Premji University, Bengaluru<br />
+                                <span class="talk">Cold fermions in artificial gauge fields</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1135 - 1155
+                            </dt>
+                            <dd>
+                                <span class="speaker">Partha S Chakraborty, IMSc, Chennai</span><br />
+                                <span class="talk">Local index formula– Where do we stand today?</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <span class="type">SESSION 3C: Special Lecture</span><br />
+                        Chairperson: N Viswanadham, IISc, Bengaluru<br />
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1200 - 1240
+                            </dt>
+                            <dd>
+                                <span class="speaker">Vijay Chandru</span><br />
+                                IISc, Bengaluru<br />
+                                <span class="talk">The sciences of the artificial: Promise and reality</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="break">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1240 - 1400
+                            </dt>
+                            <dd>Lunch</dd>
+                        </dl>
+                    </div>
                 </div>
                 <div class="schedule-text" id="allied">
-                    <h3>28 June 2018 (Thursday)</h3>
-                    <div class="session">
-                        <dl class="dl-horizontal">
-                            <dt>
-                                0900 - 1400<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="https://drive.google.com/open?id=1VfVdg-YurSRt3uQaPN2XqXMFAekt-XNc"><i class="fa fa-info-circle"></i></a></div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">INYAS Symposium in memory of Dr. Vijay Pal Yadav: Living in a Changing Environment</span><br />
-                                Venue: Jawaharlal Nehru Hall, Infosys campus, Mysore<br />
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                0930 - 1730<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">Science Outreach co-organised by INYAS, Mysore Science Foundation and the Academy Trust</span><br />
-                                Venue: Teresian High School, Siddharta Nagar<br />
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1200 - 1300<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">Teacher's Interaction with Fellows and SEP Members</span><br />
-                                Venue: Akbar hall, Infosys campus, Mysore<br />
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1400 - 1715<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="https://drive.google.com/open?id=1WHqaK7DG_bl4l_vIE6zhOq1awQV35IjF"><i class="fa fa-info-circle"></i></a></div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">SEP Symposium for Invited Teachers</span><br />
-                                Venue: Akbar hall, Infosys campus, Mysore<br />
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1800<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">Science Education Panel’s Meeting</span><br />
-                                Venue: M Visvesvaraya Hall, Infosys campus, Mysore<br />
-                            </dd>
-                        </dl>
-                    </div>
-                    <div class="session">
-                        <h3>29 June 2018 (Friday)</h3>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                0000 - 0000<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">Tact outreach</span><br />
-                                Venue: <br />
-                            </dd>
-                        </dl>
-                    </div>
-                    <div class="session">
-                        <h3>30 June 2018 (Saturday)</h3>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1830 - 2030<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">tAcT Board Meeting</span><br />
-                                Venue: Naidu Hall, Infosys campus, Mysore<br />
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1130<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">Editorial Board Meeting – Journal of Mathematical Sciences</span><br />
-                                Venue: Nelson Mandela Hall, Infosys campus, Mysore<br />
-                            </dd>
-                        </dl>
-                    </div>
-                    <div class="session">
-                        <h3>1 July 2018 (Sunday)</h3>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                0930<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">Council meeting</span><br />
-                                Venue: M Visvesvaraya Hall, Infosys campus, Mysore<br />
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1000<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">Editorial Board Meeting – Resonance</span><br />
-                                Venue: Sarojini Naidu Hall, Infosys campus, Mysore<br />
-                            </dd>
-                        </dl>
-                    </div>
-                </div>
-                <div class="schedule-text" id="spouses">
-                    <br /><br /><span class="type">Spouses Programme</span><br />
-                    <h3>29 June 2018 (Friday)</h3>
-                    <div class="session">
-                        <dl class="dl-horizontal">
-                            <dt>
-                                0930 - 1230
-                            </dt>
-                            <dd>
-                                <span class="speaker">Tour of CFTRI followed by lunch at CFTRI</span>
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1400
-                            </dt>
-                            <dd>
-                                <span class="speaker">Visit to Railway Museum</span>
-                            </dd>
-                        </dl>
-                    </div>
-                    <div class="session">
-                        <h3>30 June 2018 (Saturday)</h3>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                0930
-                            </dt>
-                            <dd>
-                                <span class="speaker">Chamundi Hills</span>
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1100
-                            </dt>
-                            <dd>
-                                <span class="speaker">Visit to Jaganmohan Palace</span>
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1200
-                            </dt>
-                            <dd>
-                                <span class="speaker">Visit to  St. Philomena’s Church</span>
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1300
-                            </dt>
-                            <dd>
-                                <span class="speaker">Lunch</span>
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1400
-                            </dt>
-                            <dd>
-                                <span class="speaker">Visit to Mysore Palace</span>
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1600
-                            </dt>
-                            <dd>
-                                <span class="speaker">Shopping</span>
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1730
-                            </dt>
-                            <dd>
-                                <span class="speaker">Brindavan Gardens</span><br />
-                                <p><strong><small>Please note that participants will be required to walk around 2 km in and around the gardens.</small></strong></p>
-                            </dd>
-                        </dl>
-                    </div>
-                </div>
-                <div class="schedule-text" id="cultural">
-                    <h2>YAKSHAGANA</h2>
-                    <p>Yakshagana is a folk art of coastal Karnataka, supported and popularized mainly by temples over the years. Today, it enjoys international recognition. Stories for the field drama are chosen mainly from Ramayana and Mahabharatha and the characters have special costumes and typical headgears. The Bhagavatha who sings the story line controls the play. The actors express the emotions and dance with skill to the accompaniment of Maddala and Chende.</p>
-                    <p>There are 2 styles recognized for their identity. The Thenku thittu (Southern style) and Badagu thittu (Northern style), which are easily recognized by the dressers and the style of dance.</p>
-                    <p>In this cultural event, the act will be performed in the Northern style, by a professional group called <strong>Saligrama Mela.</strong> The play enacted is ABHIMANYU KALAGA or CHAKRAVYUHA from Mahabharatha.</p>
-                    <p>The actors are</p>
-                    <ol>
-                        <li>Bhagavath : Sri Raghavendra Mayya Haladi</li>
-                        <li>Maddale : Sri Parameshwara Bhandary</li>
-                        <li>Chende : Sri Shivananda Kota</li>
-                    </ol>
-                    <p><strong>Actors:</strong></p>
-                    <ol>
-                        <li>Abhimanyu : Sri Chandrahasa Gowda</li>
-                        <li>Subhadre : Sri Shashikanth Shetty</li>
-                        <li>Dharmaraya : Sri Anantha K</li>
-                        <li>Drona : Sri Prasanna Shettigar</li>
-                        <li>Kourava : Sri Narasimha Gaokar</li>
-                        <li>Dushyashana : Sri Dinesh Kannaru</li>
-                        <li>Karna : Sri Thumbri Bhaskara</li>
-                        <li>Jayadratha : Sri Harish Japthi</li>
-                    </ol>
-                    <p><strong>Manager:</strong> Sri P.Kishan Hegde Palli</p>
-                    <p><strong>The Story Line:</strong></p>
-                    <p>Abhimanyu Kalaga (Chakravyuha)<br />In the Mahabharatha war, fought between Kouravas and Pandavas at Kurukshetra, Bhishma the first senapathi of the Kouravas retires from the war after 10 days, choosing to lie on a bed of arrows. Dronacharya was crowned as the next senapathi. Duryodhana asks for a victory. Drona agrees but wants Krishna and Arjuna to be sent away, and to be engaged in a separate battle with Samasapthakas. Duryodhana agrees. Drona organizes the army in the ‘Chakravyuha’ system. Only Drona, Krishna and Arjuna know how to enter and come out of this in a war. Arjuna’s son Abhimanyu knows how to enter but does not know how to come out of it.</p>
-                    <p>Pandavas are worried now. Who will fight the war with Krishna and Arjuna away? Dharmaraja is in a dilemma. What should be done to find a person to break the ‘Chakravyuha’?</p>
-                    <p>Abhimanyu comes to know of this and compels his uncle Dharmaraja to permit him to proceed to the battlefield.  Dharmaraja refuses at first because of Abhimanyu’s age but later reluctantly agrees to send him with Bhima and others for support. After meeting his worried mother Subhadra and consoling her, Abhimanyu goes to the war front to enter the ‘Chakravyuha’</p>
-                    <p>Jayadratha was posted at the entry to prevent anybody from breaking the vyuha. Abhimanyu defeats Jayadratha and succeeds in entering ‘Chakravyuha’ but Jayadratha successfully prevents others accompanying him from entering the ‘Chakravyuha’.</p>
-                    <p>Once in, Abhimanyu defeats all those who encounter him. Drona, Karna, Korava and others miserably fail to contain him. Drona is worried that Abhimanyu would annihilate the entire army and none in their camp can stop him. He orders Karna to cut Abhimanyu’s bow from behind, while all of them engage him in front. Karna opposes this cheating but finally agrees to obey the orders.</p>
-                    <p>Together all the great warriors join to fight the unaccompanied Abhimanyu in the ‘Chakravyuha’. To his surprise, Abhimanyu, while fighting, notices the mischief of somebody cutting his bow and turning back asks Karna “who taught you this cheating”.</p>
-                    <p>The bow gone, Abhimanyu fights fearlessly with other weapons facing all the opponents. Together, all of them join to kill the lonely Abhimanyu in ‘Chakravyuha’.</p>
-                    <p>The performance will showcase the undaunted Abhimanyu’s great fight in ‘Chakravyuha’</p>
-                    <p>Incidentally, this is the Golden Jubilee year of Sri Guruprasadhitha Yakshagana Mandali, Saligrama. Their services and efforts to keep the traditional values of the folk art are greatly appreciated.</p>
                 </div>
             </div>
         </div>
