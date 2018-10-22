@@ -87,7 +87,7 @@
         <div class="col-md-12">
             <p class="speaker-type">Presided by</p>
             <a href="<?=BASE_URL?>Speakers/Ram_Ramaswamy">
-                <img src="<?=STOCK_IMAGE_URL?>/speaker/001.jpg" class="speaker-thumbnail" alt="Ramakrishna Ramaswamy" title="Ramakrishna Ramaswamy"/>
+                <img src="<?=STOCK_IMAGE_URL?>speaker/001.jpg" class="speaker-thumbnail" alt="Ramakrishna Ramaswamy" title="Ramakrishna Ramaswamy" />
                 <figcaption class="figure-caption text-xs-right">Ramakrishna Ramaswamy</figcaption>
             </a>
         </div>
@@ -96,111 +96,115 @@
         <div class="col-md-12">
             <p class="speaker-type">Inaugural Lectures of Fellows &amp; Associates / Special Lectures / Public Lectures / Symposia Lectures</p>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/002.jpg" class="speaker-thumbnail" alt="N. B. Ramachandra" title="N. B. Ramachandra" />
-                <figcaption class="figure-caption text-xs-right">N. B. Ramachandra</figcaption>
+                <img src="<?=STOCK_IMAGE_URL?>speaker/002.jpg" class="speaker-thumbnail" alt="Sanjay Kumar" title="Sanjay Kumar" />
+                <figcaption class="figure-caption text-xs-right">Sanjay Kumar</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/003.jpg" class="speaker-thumbnail" alt="Swathi Tripathi" title="Swathi Tripathi" />
+                <img src="<?=STOCK_IMAGE_URL?>speaker/003.jpg" class="speaker-thumbnail" alt="N B Ramachandra" title="N B Ramachandra" />
+                <figcaption class="figure-caption text-xs-right">N B Ramachandra</figcaption>
+            </a>
+            <a href="javascript:void(0);">
+                <img src="<?=STOCK_IMAGE_URL?>speaker/004.jpg" class="speaker-thumbnail" alt="Swathi Tripathi" title="Swathi Tripathi" />
                 <figcaption class="figure-caption text-xs-right">Swathi Tripathi</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/004.jpg" class="speaker-thumbnail" alt="Debanjan Bhowmick" title="Debanjan Bhowmick" />
+                <img src="<?=STOCK_IMAGE_URL?>speaker/005.jpg" class="speaker-thumbnail" alt="Debanjan Bhowmick" title="Debanjan Bhowmick" />
                 <figcaption class="figure-caption text-xs-right">Debanjan Bhowmick</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/005.jpg" class="speaker-thumbnail" alt="K. Vijayamohanan" title="K. Vijayamohanan" />
-                <figcaption class="figure-caption text-xs-right">K. Vijayamohanan</figcaption>
+                <img src="<?=STOCK_IMAGE_URL?>speaker/006.jpg" class="speaker-thumbnail" alt="K Vijayamohanan" title="K Vijayamohanan" />
+                <figcaption class="figure-caption text-xs-right">K Vijayamohanan</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/006.jpg" class="speaker-thumbnail" alt="Avesh K. Tyagi" title="Avesh K. Tyagi" />
-                <figcaption class="figure-caption text-xs-right">Avesh K. Tyagi</figcaption>
+                <img src="<?=STOCK_IMAGE_URL?>speaker/007.jpg" class="speaker-thumbnail" alt="Avesh K Tyagi" title="Avesh K Tyagi" />
+                <figcaption class="figure-caption text-xs-right">Avesh K Tyagi</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/007.jpg" class="speaker-thumbnail" alt="Bikramjit Basu" title="Bikramjit Basu" />
+                <img src="<?=STOCK_IMAGE_URL?>speaker/008.jpg" class="speaker-thumbnail" alt="Bikramjit Basu" title="Bikramjit Basu" />
                 <figcaption class="figure-caption text-xs-right">Bikramjit Basu</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/008.jpg" class="speaker-thumbnail" alt="Kanishka Biswas" title="Kanishka Biswas" />
+                <img src="<?=STOCK_IMAGE_URL?>speaker/009.jpg" class="speaker-thumbnail" alt="Kanishka Biswas" title="Kanishka Biswas" />
                 <figcaption class="figure-caption text-xs-right">Kanishka Biswas</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/009.jpg" class="speaker-thumbnail" alt="Geshe Samten" title="Geshe Samten" />
+                <img src="<?=STOCK_IMAGE_URL?>speaker/010.jpg" class="speaker-thumbnail" alt="Geshe Samten" title="Geshe Samten" />
                 <figcaption class="figure-caption text-xs-right">Geshe Samten</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/010.jpg" class="speaker-thumbnail" alt="Imran Siddiqi" title="Imran Siddiqi" />
+                <img src="<?=STOCK_IMAGE_URL?>speaker/011.jpg" class="speaker-thumbnail" alt="Imran Siddiqi" title="Imran Siddiqi" />
                 <figcaption class="figure-caption text-xs-right">Imran Siddiqi</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/011.jpg" class="speaker-thumbnail" alt="A. J. Bhattacharyya" title="A. J. Bhattacharyya" />
-                <figcaption class="figure-caption text-xs-right">A. J. Bhattacharyya</figcaption>
+                <img src="<?=STOCK_IMAGE_URL?>speaker/012.jpg" class="speaker-thumbnail" alt="A J Bhattacharyya" title="A J Bhattacharyya" />
+                <figcaption class="figure-caption text-xs-right">A J Bhattacharyya</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/012.jpg" class="speaker-thumbnail" alt="Deepa Agashe" title="Deepa Agashe" />
+                <img src="<?=STOCK_IMAGE_URL?>speaker/013.jpg" class="speaker-thumbnail" alt="Deepa Agashe" title="Deepa Agashe" />
                 <figcaption class="figure-caption text-xs-right">Deepa Agashe</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/013.jpg" class="speaker-thumbnail" alt="Alok Bhattacharya" title="Alok Bhattacharya" />
+                <img src="<?=STOCK_IMAGE_URL?>speaker/014.jpg" class="speaker-thumbnail" alt="Alok Bhattacharya" title="Alok Bhattacharya" />
                 <figcaption class="figure-caption text-xs-right">Alok Bhattacharya</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/014.jpg" class="speaker-thumbnail" alt="D. Balasubramanian" title="D. Balasubramanian" />
-                <figcaption class="figure-caption text-xs-right">D. Balasubramanian</figcaption>
+                <img src="<?=STOCK_IMAGE_URL?>speaker/015.jpg" class="speaker-thumbnail" alt="D Balasubramanian" title="D Balasubramanian" />
+                <figcaption class="figure-caption text-xs-right">D Balasubramanian</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/015.jpg" class="speaker-thumbnail" alt="bhudevDas" title="bhudevDas" />
-                <figcaption class="figure-caption text-xs-right">bhudevDas</figcaption>
+                <img src="<?=STOCK_IMAGE_URL?>speaker/016.jpg" class="speaker-thumbnail" alt="BhudevDas" title="BhudevDas" />
+                <figcaption class="figure-caption text-xs-right">BhudevDas</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/016.jpg" class="speaker-thumbnail" alt="C. S. Yajnik" title="C. S. Yajnik" />
-                <figcaption class="figure-caption text-xs-right">C. S. Yajnik</figcaption>
+                <img src="<?=STOCK_IMAGE_URL?>speaker/017.jpg" class="speaker-thumbnail" alt="C S Yajnik" title="C S Yajnik" />
+                <figcaption class="figure-caption text-xs-right">C S Yajnik</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/017.jpg" class="speaker-thumbnail" alt="Bhisma K. Patel" title="Bhisma K. Patel" />
-                <figcaption class="figure-caption text-xs-right">Bhisma K. Patel</figcaption>
+                <img src="<?=STOCK_IMAGE_URL?>speaker/018.jpg" class="speaker-thumbnail" alt="Bhisma K Patel" title="Bhisma K Patel" />
+                <figcaption class="figure-caption text-xs-right">Bhisma K Patel</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/018.jpg" class="speaker-thumbnail" alt="Dayananda Siddavattam" title="Dayananda Siddavattam" />
+                <img src="<?=STOCK_IMAGE_URL?>speaker/019.jpg" class="speaker-thumbnail" alt="Dayananda Siddavattam" title="Dayananda Siddavattam" />
                 <figcaption class="figure-caption text-xs-right">Dayananda Siddavattam</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/019.jpg" class="speaker-thumbnail" alt="jeevanjyoti chakraborty" title="jeevanjyoti chakraborty" />
-                <figcaption class="figure-caption text-xs-right">jeevanjyoti chakraborty</figcaption>
+                <img src="<?=STOCK_IMAGE_URL?>speaker/020.jpg" class="speaker-thumbnail" alt="Jeevanjyoti chakraborty" title="Jeevanjyoti chakraborty" />
+                <figcaption class="figure-caption text-xs-right">Jeevanjyoti chakraborty</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/020.jpg" class="speaker-thumbnail" alt="Srubabti Goswami" title="Srubabti Goswami" />
+                <img src="<?=STOCK_IMAGE_URL?>speaker/021.jpg" class="speaker-thumbnail" alt="Srubabti Goswami" title="Srubabti Goswami" />
                 <figcaption class="figure-caption text-xs-right">Srubabti Goswami</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/021.jpg" class="speaker-thumbnail" alt="Shabana Azmi" title="Shabana Azmi" />
+                <img src="<?=STOCK_IMAGE_URL?>speaker/022.jpg" class="speaker-thumbnail" alt="Shabana Azmi" title="Shabana Azmi" />
                 <figcaption class="figure-caption text-xs-right">Shabana Azmi</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/022.jpg" class="speaker-thumbnail" alt="Suvendra Bhattacharyya" title="Suvendra Bhattacharyya" />
+                <img src="<?=STOCK_IMAGE_URL?>speaker/023.jpg" class="speaker-thumbnail" alt="Suvendra Bhattacharyya" title="Suvendra Bhattacharyya" />
                 <figcaption class="figure-caption text-xs-right">Suvendra Bhattacharyya</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/023.jpg" class="speaker-thumbnail" alt="S. M. Yusuf" title="S. M. Yusuf" />
-                <figcaption class="figure-caption text-xs-right">S. M. Yusuf</figcaption>
+                <img src="<?=STOCK_IMAGE_URL?>speaker/024.jpg" class="speaker-thumbnail" alt="S M Yusuf" title="S M Yusuf" />
+                <figcaption class="figure-caption text-xs-right">S M Yusuf</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/024.jpg" class="speaker-thumbnail" alt="Riddhipratim Basu" title="Riddhipratim Basu" />
+                <img src="<?=STOCK_IMAGE_URL?>speaker/025.jpg" class="speaker-thumbnail" alt="Riddhipratim Basu" title="Riddhipratim Basu" />
                 <figcaption class="figure-caption text-xs-right">Riddhipratim Basu</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/025.jpg" class="speaker-thumbnail" alt="P. Dastidar" title="P. Dastidar" />
-                <figcaption class="figure-caption text-xs-right">P. Dastidar</figcaption>
+                <img src="<?=STOCK_IMAGE_URL?>speaker/026.jpg" class="speaker-thumbnail" alt="P Dastidar" title="P Dastidar" />
+                <figcaption class="figure-caption text-xs-right">P Dastidar</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/026.jpg" class="speaker-thumbnail" alt="Jayanth Vyasanakere" title="Jayanth Vyasanakere" />
+                <img src="<?=STOCK_IMAGE_URL?>speaker/027.jpg" class="speaker-thumbnail" alt="Jayanth Vyasanakere" title="Jayanth Vyasanakere" />
                 <figcaption class="figure-caption text-xs-right">Jayanth Vyasanakere</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/027.jpg" class="speaker-thumbnail" alt="Partha Chakraborty" title="Partha Chakraborty" />
+                <img src="<?=STOCK_IMAGE_URL?>speaker/028.jpg" class="speaker-thumbnail" alt="Partha Chakraborty" title="Partha Chakraborty" />
                 <figcaption class="figure-caption text-xs-right">Partha Chakraborty</figcaption>
             </a>
             <a href="javascript:void(0);">
-                <img src="<?=STOCK_IMAGE_URL?>speaker/028.jpg" class="speaker-thumbnail" alt="Vijay Chandru" title="Vijay Chandru" />
+                <img src="<?=STOCK_IMAGE_URL?>speaker/029.jpg" class="speaker-thumbnail" alt="Vijay Chandru" title="Vijay Chandru" />
                 <figcaption class="figure-caption text-xs-right">Vijay Chandru</figcaption>
             </a>
         </div>
