@@ -234,7 +234,7 @@
                     <p class="day">Saturday</p>
                 </div>
             </a>
-            <a href="<?=BASE_URL?>Schedule#day2">
+            <a href="<?=BASE_URL?>Schedule#day3">
                 <div id="block3" class="col-md-3 schedule-block">
                     <p class="dayNum">Day 3</p>
                     <p class="date">4<sup>th</sup> November 2018</p>
@@ -270,7 +270,7 @@
             <a href="<?=BASE_URL?>Information/Venue" class="info-icon"><i class="fa fa-map-marker"></i><br />Venue</a>
             <a href="javascript:void(0);" class="info-icon"><i class="fa fa-bed"></i><br />Hospitality</a>
             <a href="javascript:void(0);" class="info-icon"><i class="fa fa-bus"></i><br />Logistics</a><br />
-            <a href="javascript:void(0);" class="info-icon"><i class="fa fa-phone"></i><br />Contact</a>
+            <a href="<?=BASE_URL?>Information/Contact" class="info-icon"><i class="fa fa-phone"></i><br />Contact</a>
             <a href="javascript:void(0);" class="info-icon"><i class="fa fa-download"></i><br />Downloads</a><!-- Information/Downloads -->
             <a href="<?=BASE_URL?>Information/Other" class="info-icon"><i class="fa fa-ellipsis-h"></i><br />Other information</a>
         </div>

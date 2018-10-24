@@ -259,7 +259,7 @@
                             </dt>
                             <dd>
                                 <span class="speaker">Smt N Rajam and group</span><br />
-                                <span class="talk">Cultural Event: Concert – Three generations on the violin</span>
+                                <span class="talk">Cultural Event: Concert - Three generations on the violin</span>
                             </dd>
                         </dl>
                     </div>
@@ -329,7 +329,7 @@
                         </dl>
                     </div>
                     <div class="session">
-                        <span class="type">Session 2C: Symposium: Community Health – A Genomic Perspective</span><br />
+                        <span class="type">Session 2C: Symposium: Community Health - A Genomic Perspective</span><br />
                         Chairperson: Rajiva Raman, BHU, Varanasi<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
@@ -354,7 +354,7 @@
                             <dd>
                                 <span class="speaker">D Balasubramanian</span><br />
                                 L V Prasad Eye Institute, Hyderabad<br />
-                                <span class="talk">Translational research approach: Primary congenital glaucoma – Prevalence, genetics and collaboration between scientists and clinicians for successful treatment</span>
+                                <span class="talk">Translational research approach: Primary congenital glaucoma - Prevalence, genetics and collaboration between scientists and clinicians for successful treatment</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
@@ -439,7 +439,7 @@
                             <dd>
                                 <span class="speaker">Jeevanjyoti Chakraborty</span><br />
                                 IIT, Kharagpur<br />
-                                <span class="talk">Diffusion, growth, and elasticity in batteries – A mathematical modelling perspective</span>
+                                <span class="talk">Diffusion, growth, and elasticity in batteries - A mathematical modelling perspective</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
@@ -632,16 +632,336 @@
                     </div>
                 </div>
                 <div class="schedule-text" id="allied">
-                    <br /><br /><span class="type">Allied Events</span><br />
-                    <h3>31 October 2018 – 1 November 2018</h3>
-                    <ul>
-                        <li>IASC–ACS Forum: Expanding Frontiers in Chemical Sciences</li>
-                        <li>Advances in Earth System Sciences -A symposiums funded by the Journal of Earth System Sciences</li>
-                        <li>Teachers’ interaction session with Fellows and Associates of the Academy</li>
-                        <li>Editorial Board meetings of Journal of Earth System Sciences and Pramana - Journal of Physics</li>
-                        <li>Exhibition of Academy’s publications (journals and books)</li>
-                        <li>Popular Science Workshop by tAcT, the Academy Trust</li>
-                    </ul>
+                    <br /><br /><span class="talk">Indian Academy of Sciences Workshop on “Advances in Earth System Science” &amp; Editorial Board Meeting of the Journal of Earth System Science 31st October  to 1st November, 2018</span><br />
+                    <p>Venue: Mahamana Centennial Hall, Seminar Complex, Institute of Science, BHU, Varanasi</p>
+                    <h3>31 October 2018</h3>
+                    <div class="session">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                09:00 am- 10:00 am
+                            </dt>
+                            <dd>
+                                <span class="talk">Inauguration</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <span class="type">Technical Session I</span><br /><br />
+                        Chairperson: Profs Somnath Dasgupta and A.K. Singhvi<br /><br />
+                        <dl class="dl-horizontal">
+                            <dt>
+                                10:00 am - 10:30 am
+                            </dt>
+                            <dd>
+                                <span class="speaker">Prof  V.K. Gaur</span><br />
+                                CSIR-Fourth Paradigm Institue, Bangalore<br />
+                                <span class="talk">First principles approaches to address fundamental problems in Planetary Sciences Research, Education and Practice</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="break">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                10:30 - 11:00 am
+                            </dt>
+                            <dd>High Tea</dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                11:00 - 11:30 am
+                            </dt>
+                            <dd>
+                                <span class="speaker">Prof J.N. Goswami</span><br />
+                                PRL, Ahmedabad<br />
+                                <span class="talk">Origin of the Solar System </span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                11:30 am - 12:00 pm
+                            </dt>
+                            <dd>
+                                <span class="speaker">Dr M.Rajeevan</span><br />
+                                MoES<br />
+                                <span class="talk">Earth Science Services for Societal and Economic Benefits</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <span class="type">Technical Session II</span><br /><br />
+                        Chairperson: Profs A.K. Kamra &amp; Anil K Gupta<br /><br />
+                        <dl class="dl-horizontal">
+                            <dt>
+                                12:00 - 12:20 pm
+                            </dt>
+                            <dd>
+                                <span class="speaker">Dr. V.C. Thakur</span><br />
+                                Formerly of Wadia Institute of Himalayan Geology, Dehradun<br />
+                                <span class="talk">Seismotectonics of the Himalaya: Plate boundary and wedge thrust earthquakes</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                12:20 - 12:40  pm 
+                            </dt>
+                            <dd>
+                                <span class="speaker">Dr. R.N.Singh</span><br />
+                                IIT-Gandhinagar<br />
+                                <span class="talk">Rise of earth system science</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                12:40 - 01:00  pm
+                            </dt>
+                            <dd>
+                                <span class="speaker">Dr. B.R.Arora</span><br />
+                                Formerly of Wadia Institute of Himalayan Geology, Dehradun<br />
+                                <span class="talk">Seismotectonic and Seismogenesis of Earthquakes in the Himalaya: Constraint from Electrical Resistivity Imaging</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                01:00 - 01:20 pm 
+                            </dt>
+                            <dd>
+                                <span class="speaker">Prof K.S.Krishna</span><br />
+                                University of Hyderabad<br />
+                                <span class="talk">Crustal architecture and Moho topography beneath the eastern Indian and Bangladesh margins - new insights on rift evolution</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="break">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                01:20 - 02:00 pm
+                            </dt>
+                            <dd>Lunch Break</dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                02:00 - 02:45 pm
+                            </dt>
+                            <dd>
+                                <span class="talk">Visit to the laboratories of the  Department of Geology, BHU</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                03:00 - 05:30 pm
+                            </dt>
+                            <dd>
+                                <span class="talk">Editorial Board meeting of the Journal of Earth System Science at Committee room of Director’s office, Institute of Science, BHU [Only for editorial board members]</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                06:30 - 08:30 pm
+                            </dt>
+                            <dd>
+                                <span class="talk">Cruise on the River Ganges (Dinner) : All delegates and their spouses/accompanying persons are requested to be ready at their guesthouses by 5:45 pm  (sharp). Vehicles will pick you up and take you to Assi ghat where the wonderful journey begins! Ganga aarti can be seen from frontal (river) side.</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <h3>1<sup>st</sup> November 2018</h3>
+                    <div class="session">
+                        <span class="type">Technical Session III</span><br /><br />
+                        Chairperson: Drs V.C.Thakur &amp; B.R.Arora<br /><br />
+                        <dl class="dl-horizontal">
+                            <dt>
+                                09.30 - 09:50 am
+                            </dt>
+                            <dd>
+                                <span class="speaker">Prof S.K. Bhowmick </span><br />
+                                IIT-Kharagpur<br />
+                                <span class="talk">Pulsed Tectonic Patterns in Early Earth Hot Orogens: Insights from Diffusion Chronometry</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                09:50 - 10:10 am
+                            </dt>
+                            <dd>
+                                <span class="speaker">Prof Saibal Gupta</span><br />
+                                IIT-Kharagpur<br />
+                                <span class="talk">Mars in India?</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                10:10 - 10:30 am
+                            </dt>
+                            <dd>
+                                <span class="speaker">Prof R. Bhutani</span><br />
+                                Pondicherry University<br />
+                                <span class="talk">Origin and evolution of land: Clues from radiogenic isotopes</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                10:30 - 10:50 am
+                            </dt>
+                            <dd>
+                                <span class="speaker">Dr. Arkoprovo Biswas</span><br />
+                                Banaras Hindu University<br />
+                                <span class="talk">Self-Potential method: In quest for subsurface mineral exploration</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="break">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                10:50 - 11:15 am
+                            </dt>
+                            <dd>Tea Break</dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <span class="type">Technical Session IV</span><br /><br />
+                        Profs M. M. Sarin &amp; Pulak Sengupta<br /><br />
+                        <dl class="dl-horizontal">
+                            <dt>
+                                11:15 - 11:35 am
+                            </dt>
+                            <dd>
+                                <span class="speaker">Prof M.M.Sarin</span><br />
+                                Physical Research Laboratory, Ahmedabad<br />
+                                <span class="talk">Carbonaceous aerosols from biomass burning emissions in Northern India: Implications to atmospheric radiative forcing and climate </span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                11:35 - 11;55 am
+                            </dt>
+                            <dd>
+                                <span class="speaker">Prof S.K.Bhattacharya</span><br />
+                                Formerly of Physical Research Laboratory, Ahmedabad<br />
+                                <span class="talk">Variation in oxygen isotope ratio of waters from Himalayan Rivers: decrease in snow/glacier melt contribution during 2002 to 2004</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                11:55 - 12:15 pm 
+                            </dt>
+                            <dd>
+                                <span class="speaker">Dr. A.K.Sahai</span><br />
+                                IMD, New Delhi<br />
+                                <span class="talk">Challenges and Advances in Subseasonal Prediction</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                12;15 - 12:35 pm 
+                            </dt>
+                            <dd>
+                                <span class="speaker">Dr V.V.V.S.Sarma</span><br />
+                                CSIR-NIO, Vizag<br />
+                                <span class="talk">Modification of coastal waters due to atmospheric deposition pollutants</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                12:35 - 12:55 pm
+                            </dt>
+                            <dd>
+                                <span class="speaker">Dr. Abhijit Mukherjee</span><br />
+                                IIT-Kharagpur<br />
+                                <span class="talk">Delineating groundwater security of India</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                12:55- 1:15 pm
+                            </dt>
+                            <dd>
+                                <span class="speaker">Dr. C. Gnanaseelan</span><br />
+                                IITM, Pune<br />
+                                <span class="talk">Tropical Indian Ocean warming and its impact on the regional climate</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1:15 - 1:35 pm 
+                            </dt>
+                            <dd>
+                                <span class="speaker">Dr. Rajib Maity </span><br />
+                                IIT-Kharagpur<br />
+                                <span class="talk">Temporal evolution of hydroclimatic teleconnection and long-lead prediction of Indian summer monsoon rainfall using a time varying model</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="break">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                01:35 - 02:15 pm
+                            </dt>
+                            <dd>Lunch break</dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <span class="type">Technical Session V (Young Associates of IASc)</span><br /><br />
+                        Drs R. Navalgund &amp; P.C.Pandey<br /><br />
+                        <dl class="dl-horizontal">
+                            <dt>
+                                2:15 - 2:35
+                            </dt>
+                            <dd>
+                                <span class="speaker">Dr Riddhi Singh</span><br />
+                                IIT-Bombay<br />
+                                <span class="talk">Estimating spatio-temporal variations of surface water availability at regional scales: challenges and opportunities</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                2:35 - 2:55
+                            </dt>
+                            <dd>
+                                <span class="speaker">Dr Kedovikho Yhoshu</span><br />
+                                Nagaland University, Kohima<br />
+                                <span class="talk">Lunar surface morphology and its dating</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                2:55 - 3:15 
+                            </dt>
+                            <dd>
+                                <span class="speaker">Dr Arvind Singh</span><br />
+                                Physical Research Laboratory, Ahmedabad<br />
+                                <span class="talk">High Rates of Nitrogen Fixation in the Arabian Sea</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                3:15- 3:35 
+                            </dt>
+                            <dd>
+                                <span class="speaker">Dr. Nabajit Hazarika</span><br />
+                                Nagaland University, Lumami<br />
+                                <span class="talk">A methodological crossover for flood risk assessment</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                04:00 - 04:30 pm
+                            </dt>
+                            <dd>
+                                <span class="talk">Valedictory Function (Profs Ram Ramaswamy, President IASc; R.Bhatnagar VC, BHU Chairpersons)</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="break">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                04:30 pm
+                            </dt>
+                            <dd>High Tea</dd>
+                        </dl>
+                    </div>
                 </div>
                 <div class="schedule-text" id="spouses">
                     <br /><br /><span class="type">Spouses Programme</span><br />
@@ -654,7 +974,7 @@
                     </ul>
                     <h3>4<sup>th</sup> November 2018</h3>
                     <ul>
-                            <li>Ganga Aarti, Dashashwamedh Ghat</li>
+                        <li>Ganga Aarti, Dashashwamedh Ghat</li>
                     </ul>
                 </div>
             </div>
