@@ -632,7 +632,7 @@
                     </div>
                 </div>
                 <div class="schedule-text" id="allied">
-                    <br /><br /><span class="talk">Indian Academy of Sciences Workshop on “Advances in Earth System Science” &amp; Editorial Board Meeting of the Journal of Earth System Science 31st October  to 1st November, 2018</span><br />
+                    <br /><br /><span class="type">Workshop on “Advances in Earth System Science”</span><br />
                     <p>Venue: Mahamana Centennial Hall, Seminar Complex, Institute of Science, BHU, Varanasi</p>
                     <h3>31 October 2018</h3>
                     <div class="session">
@@ -960,6 +960,115 @@
                                 04:30 pm
                             </dt>
                             <dd>High Tea</dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <h3>1<sup>st</sup> November 2018</h3>
+                        <span class="type">Forum: Expanding Frontiers in Chemical Sciences</span><br /><br />
+                        <dl class="dl-horizontal">
+                            <dt>
+                                09:00 - 09:30 AM
+                            </dt>
+                            <dd>
+                                <span class="talk">Registration</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                09:30 - 09:45 AM
+                            </dt>
+                            <dd>
+                                <span class="talk">Welcome and Introduction</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                09:45 - 10:30 AM
+                            </dt>
+                            <dd>
+                                <span class="speaker">Prof. Paul Weiss</span><br />
+                                <span class="talk">Plenary Talk 1</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                10:30 - 11:15 AM
+                            </dt>
+                            <dd>
+                                <span class="speaker">Prof. Swagata Dasgupta</span><br />
+                                <span class="talk">Plenary Talk 2</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="break">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                11:15 - 11:45 AM
+                            </dt>
+                            <dd>Coffee and Tea Break</dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                11:45 - 01:00 PM
+                            </dt>
+                            <dd>
+                                <span class="talk">Short Lectures by Invited Delegates</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="break">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                01:00 - 02:00 PM
+                            </dt>
+                            <dd>Lunch Break</dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                02:00 - 02:45 PM
+                            </dt>
+                            <dd>
+                                <span class="speaker">Prof. Anne Milasincic Andrews</span><br />
+                                <span class="talk">Plenary Talk 3</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                02:45 - 03:30 PM
+                            </dt>
+                            <dd>
+                                <span class="speaker">Prof. Sandeep Verma</span><br />
+                                <span class="talk">Plenary Talk 4</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                03:30 - 04:00 PM
+                            </dt>
+                            <dd>
+                                <span class="talk">Coffee and Tea Break</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                04:00 - 05:00 PM
+                            </dt>
+                            <dd>
+                                <span class="talk">Short Lectures &amp; Panel Discussion</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                05:00 - 06:00 PM
+                            </dt>
+                            <dd>
+                                <span class="speaker">Prof. C.N.R. Rao</span><br />
+                                <span class="talk">Special Lecture</span>
+                            </dd>
                         </dl>
                     </div>
                 </div>
