@@ -68,7 +68,10 @@
                         <span class="type">Session 1A: Inauguration &amp; Presidential Address</span><br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                0930 - 1100
+                                0930 - 1100<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540372867249">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Ram Ramaswamy</span><br />
@@ -91,7 +94,10 @@
                         Chairperson: Dhananjai Pandey, BHU, Varanasi<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1200 -1220
+                                1200 -1220<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540373324054">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Sanjay Kumar</span><br />
@@ -101,7 +107,10 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1225 - 1245
+                                1225 - 1245<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540375442172">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">S M Yusuf</span><br />
@@ -123,7 +132,10 @@
                         Chairperson: V C Thakur, Dehradun
                         <dl class="dl-horizontal">
                             <dt>
-                                1400 - 1420
+                                1400 - 1420<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540373795893">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Swati Tripathi</span><br />
@@ -133,10 +145,13 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1425 - 1445
+                                1425 - 1445<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540373867478">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
-                                <span class="speaker">Debanjan Bhowmik,</span><br />
+                                <span class="speaker">Debanjan Bhowmik</span><br />
                                 IIT Delhi, New Delhi<br />
                                 <span class="talk">Hardware implementation of neural network algorithms, based on machine learning and neuroscience models, using spintronic devices as non-volatile memory elements</span>
                             </dd>
@@ -164,7 +179,10 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1555 - 1615
+                                1555 - 1615<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374154987">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">K Vijayamohanan</span><br />CECRI, Karaikudi<br />
@@ -173,7 +191,10 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1620 - 1640
+                                1620 - 1640<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374256388">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">A K Tyagi</span>
@@ -183,7 +204,10 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1645 - 1705
+                                1645 - 1705<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374348730">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Bikramjit Basu</span><br />
@@ -193,7 +217,10 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1710 - 1730
+                                1710 - 1730<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374408121">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Kanishka Biswas</span><br />
@@ -215,7 +242,10 @@
                         Chairperson: Ram Ramaswamy, JNU, New Delhi<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1800 - 1900
+                                1800 - 1900<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374459251">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Geshe Ngawang Samten</span><br />
@@ -249,7 +279,10 @@
                         Chairperson: N Sathyamurthy, JNCASR, Bengaluru<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                0900 - 0940
+                                0900 - 0940<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374511921">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Imran Siddiqi</span><br />
@@ -263,7 +296,10 @@
                         Chairperson: E D Jemmis, IISc, Bengaluru<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                0940 - 1000
+                                0940 - 1000<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374562804">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Aninda J Bhattacharyya</span><br />
@@ -273,7 +309,10 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1005 - 1025
+                                1005 - 1025<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374616279">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Deepa Agashe, NCBS, Bengaluru</span><br />
@@ -294,7 +333,10 @@
                         Chairperson: Rajiva Raman, BHU, Varanasi<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1050 - 1115
+                                1050 - 1115<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374675174">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Alok Bhattacharya</span><br />
@@ -304,7 +346,10 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1120 - 1145
+                                1120 - 1145<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374743466">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">D Balasubramanian</span><br />
@@ -314,7 +359,10 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1150 - 1215
+                                1150 - 1215<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374797094">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Bhudev C Das</span><br />
@@ -324,7 +372,10 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1220 -  1245
+                                1220 -  1245<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374855957">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">C S Yajnik</span><br />
@@ -354,7 +405,10 @@
                         Chairperson: R K Srivastava, BHU, Varanasi<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1400 - 1420
+                                1400 - 1420<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374911562">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Bhisma K Patel</span><br />
@@ -364,7 +418,10 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1425 - 1445
+                                1425 - 1445<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374966779">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">S Dayananda</span><br />
@@ -374,7 +431,10 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1450 - 1510
+                                1450 - 1510<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540375013691">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Jeevanjyoti Chakraborty</span><br />
@@ -384,7 +444,10 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1515 - 1535
+                                1515 - 1535<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540375072692">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Srubabati Goswami</span><br />
@@ -426,7 +489,10 @@
                         Chairperson: Ram Ramaswamy, JNU, New Delhi<br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1800 - 1900
+                                1800 - 1900<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540375123715">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Shabana Azmi</span><br />
@@ -451,7 +517,10 @@
                         Chairperson: S Ananthakrishnan, Savitribai Phule Pune University, Pune<br />
                         <dl class="dl-horizontal">
                             <dt>
-                                0900 - 0920
+                                0900 - 0920<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540375179053">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Suvendra N Bhattacharyya</span><br />
@@ -461,7 +530,10 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                0925 - 0945
+                                0925 - 0945<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540373516049">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">N B Ramachandra</span><br />
@@ -471,7 +543,10 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                0950 - 1010
+                                0950 - 1010<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540375703291">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Riddhipratim Basu</span><br />
@@ -493,7 +568,10 @@
                         Chairperson: R L Karandikar, Chennai Mathematical Institute, Chennai<br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1045 - 1105
+                                1045 - 1105<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540375783758">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">P Dastidar</span><br />
@@ -503,7 +581,10 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1110 - 1130
+                                1110 - 1130<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540375860211">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Jayanth Vyasanakere</span><br />
@@ -513,7 +594,10 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1135 - 1155
+                                1135 - 1155<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540375013691">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Partha S Chakraborty, IMSc, Chennai</span><br />
@@ -526,7 +610,10 @@
                         Chairperson: N Viswanadham, IISc, Bengaluru<br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1200 - 1240
+                                1200 - 1240<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540376044624">
+                                    <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Vijay Chandru</span><br />

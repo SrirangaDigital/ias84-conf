@@ -789,6 +789,12 @@ button.toggle-button{
   margin-top: 35px;
   margin-bottom: 15px;
 }
+.main .contact h3{
+  font-family: "Lato", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  margin-top: 35px;
+}
 .main .schedule .session{
   border-bottom: 1px solid #DDD;
   padding: 20px 0;
