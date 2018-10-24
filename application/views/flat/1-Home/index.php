@@ -241,11 +241,16 @@
                     <p class="day">Sunday</p>
                 </div>
             </a>
-            <a href="javascript:void(0);">
-                <div id="block4" class="col-md-3 schedule-block">
-                    <p class="dayNum">Allied Event</p>
-                    <p class="date">31<sup>st</sup> Oct &amp; 1<sup>st</sup> Nov</p>
-                    <p class="day">2018</p>
+            <a href="<?=BASE_URL?>Schedule#allied">
+                <div id="block4" class="col-md-3 schedule-block" style="padding: 43px 0 42px">
+                    <p class="date">Allied Events</p>
+                    <p class="day">31<sup>st</sup> Oct &amp; 1<sup>st</sup> Nov 2018</p>
+                </div>
+            </a>
+            <a href="<?=BASE_URL?>Schedule#spouses">
+                <div id="block5" class="col-md-3 schedule-block" style="padding: 43px 0 43px">
+                    <p class="date" style="width: 80%">Spouses Programme</p>
+                    <p class="day">2<sup>nd</sup> - 4<sup>th</sup> Nov 2018</p>
                 </div>
             </a>
         </div>
@@ -262,12 +267,12 @@
     <div class="row" style="line-height: 150px">
         <div class="col-md-12">
             <a href="javascript:void(0);" class="info-icon"><i class="fa fa-list-ul"></i><br />List of Participants</a><!-- <?=BASE_URL?>Information/List_of_Participants -->
-            <a href="javascript:void(0);" class="info-icon"><i class="fa fa-map-marker"></i><br />Venue</a>
+            <a href="<?=BASE_URL?>Information/Venue" class="info-icon"><i class="fa fa-map-marker"></i><br />Venue</a>
             <a href="javascript:void(0);" class="info-icon"><i class="fa fa-bed"></i><br />Hospitality</a>
             <a href="javascript:void(0);" class="info-icon"><i class="fa fa-bus"></i><br />Logistics</a><br />
             <a href="javascript:void(0);" class="info-icon"><i class="fa fa-phone"></i><br />Contact</a>
             <a href="javascript:void(0);" class="info-icon"><i class="fa fa-download"></i><br />Downloads</a><!-- Information/Downloads -->
-            <a href="javascript:void(0);" class="info-icon"><i class="fa fa-ellipsis-h"></i><br />Other information</a><!-- Information/Other -->
+            <a href="<?=BASE_URL?>Information/Other" class="info-icon"><i class="fa fa-ellipsis-h"></i><br />Other information</a>
         </div>
     </div>
 </div>

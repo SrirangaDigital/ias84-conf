@@ -2,11 +2,11 @@
 
     <h1>Schedule</h1>
     <ul>
-        <li><a href="<?=BASE_URL?>Schedule#day1">Day 1</a></li>
-        <li><a href="<?=BASE_URL?>Schedule#day2">Day 2</a></li>
-        <li><a href="<?=BASE_URL?>Schedule#day3">Day 3</a></li>
-        <li><a href="javascript:void(0);">Allied Events</a></li>
-        <!-- <li><a href="<?=BASE_URL?>Schedule#spouses" target="_blank">Spouses Programme</a></li> -->
+        <li><a href="<?=BASE_URL?>Schedule#day1" target="_blank">Day 1</a></li>
+        <li><a href="<?=BASE_URL?>Schedule#day2" target="_blank">Day 2</a></li>
+        <li><a href="<?=BASE_URL?>Schedule#day3" target="_blank">Day 3</a></li>
+        <li><a href="<?=BASE_URL?>Schedule#allied" target="_blank">Allied Events</a></li>
+        <li><a href="<?=BASE_URL?>Schedule#spouses" target="_blank">Spouses Programme</a></li>
         <!-- <li><a href="<?=BASE_URL?>Schedule#cultural" target="_blank">Cultural Event</a></li> -->
     </ul>            
 

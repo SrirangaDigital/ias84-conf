@@ -50,6 +50,7 @@
                     <li><a href="#day2">Day 2</a></li>
                     <li><a href="#day3">Day 3</a></li>
                     <li><a href="#allied">Allied Events</a></li>
+                    <li><a href="#spouses">Spouses Programme</a></li>
                 </ul>
                 <div class="schedule-text" id="day1">
                     <h3>2<sup>nd</sup> November 2018 (Friday)</h3>
@@ -544,6 +545,30 @@
                     </div>
                 </div>
                 <div class="schedule-text" id="allied">
+                    <br /><br /><span class="type">Allied Events</span><br />
+                    <h3>31 October 2018 – 1 November 2018</h3>
+                    <ul>
+                        <li>IASC–ACS Forum: Expanding Frontiers in Chemical Sciences</li>
+                        <li>Advances in Earth System Sciences -A symposiums funded by the Journal of Earth System Sciences</li>
+                        <li>Teachers’ interaction session with Fellows and Associates of the Academy</li>
+                        <li>Editorial Board meetings of Journal of Earth System Sciences and Pramana - Journal of Physics</li>
+                        <li>Exhibition of Academy’s publications (journals and books)</li>
+                        <li>Popular Science Workshop by tAcT, the Academy Trust</li>
+                    </ul>
+                </div>
+                <div class="schedule-text" id="spouses">
+                    <br /><br /><span class="type">Spouses Programme</span><br />
+                    <h3>2<sup>nd</sup> &amp; 3<sup>rd</sup> November 2018</h3>
+                    <ul>
+                        <li>Vishwanath Temple, BHU</li>
+                        <li>Bharat Kala Bhavan, Museum, BHU</li>
+                        <li>Ramnagar Fort</li>
+                        <li>Sarnath</li>
+                    </ul>
+                    <h3>4<sup>th</sup> November 2018</h3>
+                    <ul>
+                            <li>Ganga Aarti, Dashashwamedh Ghat</li>
+                    </ul>
                 </div>
             </div>
         </div>

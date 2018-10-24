@@ -11,24 +11,30 @@
         <div class="col-md-9 main">
             <h1>Other information</h1>
 
-            <h2>About Mysuru</h2>
-            <p>Situated at the foot of Chamundi Hills, the cultural capital of Karnataka, Mysuru (formerly known as Mysore), is Karnataka's third most populous city. Located between the river Kaveri and the river Kabini River, a tributary of the Kaveri, the city is renowned for the Mysore Palace, the official residence of the Wadiyar dynasty, and the 10-day-long festivities around it that attract thousands of tourists during the Dasara festival. It is also home to several central research institutes such as the Central Food Technical Research Institute (CFTRI), the Central Sericulture Research Institute (CSRI), and the Defence Food Research Laboratory (DFRL).  The city is It lends its name to the Mysore style of painting, the sweet dish Mysore Pak, and the garment known as the Mysore silk saree. Mysuru is also known for the eponymous Mysore Silk, the Mysore Peta (a traditional silk turban), Mysore Painting, Mysore Pak and Mysore Masala Dosa.</p>
+            <h2>About Varanasi</h2>
+            <p>Varanasi is a city in the northern Indian state of Uttar Pradesh dating to the 11th century B.C. Regarded as the spiritual capital of India, the city draws Hindu pilgrims who bathe in the Ganges River’s sacred waters and perform funeral rites. Along the city's winding streets are some 2,000 temples, including Kashi Vishwanath, the “Golden Temple,” dedicated to the Hindu god Shiva.</p>
             <h2>Climate</h2>
-            <p>Mysuru generally experiences a pleasant climate – the winters are cool and the summers warm. Summer commences in the months of March and continues until June. The season is dry, May and June being the hottest months. Temperatures range between 21ºC and 34ºC. The monsoon runs from June to September, during which the city experiences medium to heavy rainfall.</p>
+            <p>Pleasant, Sunny, Temperature ranging between 18-31℃</p>
             <h2>Places of Interest</h2>
             <ul>
-                <li>Mysuru Palace</li>
-                <li>Chamundi Hills</li>
-                <li>Krishna Raja Sagara</li>
-                <li>Brindavan Garden</li>
-                <li>Karanji Lake</li>
-                <li>Ranganathittu Bird Sanctuary</li>
-                <li>Mysuru Sand Sculpture Museum</li>
+                <li>Alamgir Mosque</li>
+                <li>Assi Ghat</li>
+                <li>Batuk Bhairav Mandir</li>
+                <li>Bharat Kala Bhavan</li>
+                <li>Bharat Mata Mandir</li>
+                <li>Chinese Temple</li>
+                <li>Durga Temple</li>
+                <li>ISKCON Varanasi</li>
+                <li>Kashi Vishwanath Temple</li>
+                <li>Nepali temple</li>
+                <li>Ramnagar Fort</li>
+                <li>Tibetan Temple</li>
+                <li>Tulsi Manasa Temple</li>
                 and more....
             </ul>       
-         </div>
+        </div>
         <div class="col-md-3 sidebar">
-<?php require_once('application/views/generalSidebar.php');?>
+            <?php require_once('application/views/generalSidebar.php');?>
         </div>
     </div>
 </div>
