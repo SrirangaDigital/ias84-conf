@@ -10,176 +10,324 @@
     <div class="row">
         <div class="col-md-9 main">
             <h1>List of Participants</h1>
-            <ol class="general-list">
-                <li><strong>A Bharadwaj, Prof,</strong> IISc, Bengaluru</li>
-                <li><strong>A. Jayaraman, Prof,</strong> Bengaluru</li>
-                <li><strong>ABHISHEK BANERJEE, Dr,</strong> IISc, Bengaluru</li>
-                <li><strong>Ali Sher,,</strong> Jamia Millia Islamia, New Delhi</li>
-                <li><strong>ALLIN JOE D, Mr,</strong> Kumaraaguru Coll. of Technology, Coimbatore</li>
-                <li><strong>Amitabh Joshi, Prof,</strong> JNCASR, Bengaluru</li>
-                <li><strong>Amitava Patra, Dr,</strong> IACS, Kolkata</li>
-                <li><strong>Anand, G. V., Prof,</strong> Bengaluru</li>
-                <li><strong>Ananthakrishnan, S., Prof,</strong> Pune</li>
-                <li><strong>Antia, H. M., Prof,</strong> TIFR, Mumbai</li>
-                <li><strong>ARAVINDHAN E, Mr,</strong> CHENNAI</li>
-                <li><strong>Arunambiga S, Ms,</strong> K.S. Rangasamy College of Arts &amp; Science,Tiruchengode</li>
-                <li><strong>Asha B S, Ms,</strong> IASc, Bengaluru</li>
-                <li><strong>Ashish Kishore Lele, Prof,</strong> NCL, Pune</li>
-                <li><strong>ASHOK K GANGULI, Prof,</strong> INST, Chandigarh</li>
-                <li><strong>Ayan Datta, Prof,</strong> IACS, Kolkata</li>
-                <li><strong>Badhulika, Sushmee, Dr,</strong> IIT, Hyderabad</li>
-                <li><strong>Bhattacharjee, Subhro, Dr,</strong> ICTS, Bengaluru</li>
-                <li><strong>Bhattacharyya S P, Prof,</strong> Kolkata</li>
-                <li><strong>Bhattacharyya, Amalava, Dr,</strong> BSIP, Lucknow</li>
-                <li><strong>BRINDHA ELANGOVAN, Dr,</strong> K.S. Rangasamy College of Arts &amp; Science,Tiruchengode</li>
-                <li><strong>Chakraborti, Asit K., Prof,</strong> NIPER, SAS Nagar</li>
-                <li><strong>Chandrasekaran S, Prof,</strong> IISc, Bengaluru</li>
-                <li><strong>CHITRA VADIVU C, Dr,</strong> Kovai</li>
-                <li><strong>Choudhury, Debajyoti,,</strong> University of Delhi, Delhi</li>
-                <li><strong>D L Geetha, Ms,</strong> IASc, Bengaluru</li>
-                <li><strong>Datta, Swapan K , Prof,</strong> Visva Bharati, Santiniketan</li>
-                <li><strong>Dattagupta, Sushanta, Prof,</strong> Kolkata</li>
-                <li><strong>Deepak Dhar, Prof,</strong> IISER, Pune</li>
-                <li><strong>Devanjan Sinha, Dr,</strong> BHU, Varanasi</li>
-                <li><strong>Dhananjaya, Dr,</strong> B.M.S. Institute of Technology &amp; Management,Bengaluru</li>
-                <li><strong>Dipankar Chatterji, Prof,</strong> IISc, Bengaluru</li>
-                <li><strong>Dipankar Das Sarma, Prof,</strong> IISc, Bengaluru</li>
-                <li><strong>Durgadas P Kasbekar, Prof,</strong> CDFD, Hyderabad</li>
-                <li><strong>E.S.RAJAGOPAL, Prof,</strong> IISc, Bengaluru</li>
-                <li><strong>Easwaran, Prof,</strong> Molecular Biophysics Unit, IISc, Bangalore</li>
-                <li><strong>G Chandramohan, Mr,</strong> IASc, Bengaluru</li>
-                <li><strong>Gavai, Rajiv V., Prof,</strong> IIT, Mumbai</li>
-                <li><strong>Geetha Sugumaran, Ms,</strong> IASc, Bengaluru</li>
-                <li><strong>Ghosh Aswini, Prof,</strong> IACS, Kolkata</li>
-                <li><strong>Ghosh, Ashutosh, Prof,</strong> University of Calcutta, Kolkata</li>
-                <li><strong>Ghosh, Subrata, Prof,</strong> IACS, Kolkata</li>
-                <li><strong>Giri, Rajanish, Dr,</strong> IIT, Mandi</li>
-                <li><strong>Giridhar U Kulkarni, Prof,</strong> CENS, Bengaluru</li>
-                <li><strong>GOGURI RAJIREDDY, Mr,</strong> Bengaluru</li>
-                <li><strong>Grover, Arun K., Prof,</strong> Panjab University, Chandigarh</li>
-                <li><strong>Gunjal, Aparna B, Dr,</strong> Haribhai V Desai College, Pune</li>
-                <li><strong>H. Ila/H. Junjappa, Prof,</strong> Reva University, Bengaluru</li>
-                <li><strong>Hariprasath L, Dr,</strong> Karpagam University, Coimbatore</li>
-                <li><strong>Haritsa, Jayant R, Prof,</strong> IISc, Bengaluru</li>
-                <li><strong>Hazarika, Nabajit, Dr,</strong> Nagaland University, Lumami</li>
-                <li><strong>Hazarika, Sanjoy, Dr,</strong> Commonwealth Human Rights Initiative, Delhi</li>
-                <li><strong>Inamdar, Maneesha S, Prof,</strong> JNCASR, Bengaluru</li>
-                <li><strong>J Govindaswamy, Mr,</strong> IASc, Bengaluru</li>
-                <li><strong>J S Momo H Anal, Dr,</strong> (null)</li>
-                <li><strong>Jai Benjamin, Ms,</strong> IASc, Bengaluru</li>
-                <li><strong>Jana, Subhra, Dr,</strong> SN Bose National Centre, Kolkata</li>
-                <li><strong>Jaywant Arakeri, Prof,</strong> IISc, Bengaluru</li>
-                <li><strong>K V L Shrikanya Rao, Dr,</strong> Vikrama Simhapuri University, Kakutur, Nellore</li>
-                <li><strong>K.L. Sebastian, Prof,</strong> IIT, Palakkad</li>
-                <li><strong>K.Pavithra, Ms,</strong> .S. Rangasamy College of Arts &amp; Science,Tiruchengode</li>
-                <li><strong>Kailash C Malhotra, Prof,</strong> Delhi</li>
-                <li><strong>Kamra, Adarsh K, Dr,</strong> IITM, Pune</li>
-                <li><strong>kanhere Dilip, Prof,</strong> University of Pune, Pune</li>
-                <li><strong>Kant, Rama, Prof,</strong> University of Delhi, Delhi</li>
-                <li><strong>Kapil Hari Paranjape, Prof,</strong> IISER, Mohali</li>
-                <li><strong>KAUSTUV SANYAL, Dr,</strong> JNCASR, Bengaluru</li>
-                <li><strong>KRISHNA KIRAN VAMSI DASU, Dr,</strong> SSSIHL, PRASANTHI NILAYAM, PUTTAPARTHI</li>
-                <li><strong>Krishna Prasad, Dr,</strong> CeNS, Bengaluru</li>
-                <li><strong>Krishnamoorthy, G., Prof,</strong> Anna University, Chennai</li>
-                <li><strong>Krishnamurthy S S, Prof,</strong> IISc, Bengaluru</li>
-                <li><strong>Krishnan S,,</strong> Bengaluru</li>
-                <li><strong>Kuldeep Kaur, Dr,</strong> Mata Gujri College, Fatehgarh</li>
-                <li><strong>Kumar, Aditya, Dr,</strong> Tezpur University, Tezpur</li>
-                <li><strong>Kumar, Anirudh, Dr,</strong> Indira Gandhi National Tribal Universit, Amarkantak</li>
-                <li><strong>Kumar, Sanjay, Prof,</strong> BHU, Varanasi</li>
-                <li><strong>Kumaresan K, Dr,</strong> Kumaraguru College of Technology, Coimbatore</li>
-                <li><strong>Lalit Kumar, Prof,</strong> AIIMS, New Delhi</li>
-                <li><strong>Lisa Mary Thomas, Ms,</strong> Coimbatore</li>
-                <li><strong>M ESWARAMOORTHY, Prof,</strong> JNCASR, Bengaluru</li>
-                <li><strong>M.S. Gopinathan, Mr,</strong> IISER, Thiruvananthapuram</li>
-                <li><strong>Madhu Chennabasappa, Dr,</strong> Siddaganga Institute of Technology, Tumakuru</li>
-                <li><strong>Maheshchandra N, Mr,</strong> IASc, Bengaluru</li>
-                <li><strong>MAHINDER SINGH, Dr,</strong> GOVT POST GRADUATE COLLEGE SEEMA-ROHRU</li>
-                <li><strong>Majumder, Gobinda, Prof,</strong> TIFR, Mumbai</li>
-                <li><strong>Mariyatra, Baby M, Dr,</strong> St. Xavier's College Palayamkottai</li>
-                <li><strong>Mondal, Naba Kumar, Prof,</strong> SINP, Kolkata</li>
-                <li><strong>Mukherjee, Rabibrata, Prof,</strong> IIT, Kharagpur</li>
-                <li><strong>MUTHULAKSHMI.L, Dr,</strong> Kalasalingam University, Anand Nagar Krishnankoil</li>
-                <li><strong>N.Panchapakesan, Prof,</strong> New Delhi</li>
-                <li><strong>N.Viswanadham, Prof,</strong> IISc, Bengaluru</li>
-                <li><strong>Nagarajan, Radhakrishnan, Prof,</strong> Mumbai</li>
-                <li><strong>Nagesh, Mr,</strong> IASc, Bengaluru</li>
-                <li><strong>Nageswararao Budiredla, Mr,</strong> S.G.A. Govt. Degree College Yellamanchili</li>
-                <li><strong>Nalini B R, Ms,</strong> IASc, Bengaluru</li>
-                <li><strong>Nath, Soumitra, Dr,</strong> Gurucharan College, Silchar, Assam</li>
-                <li><strong>Navakanta Bhat, Dr,</strong> IISc, Bengaluru</li>
-                <li><strong>Navin Khanna, Dr,</strong> ICGEB, New Delhi</li>
-                <li><strong>Neha goyal , Dr,</strong> Haryana</li>
-                <li><strong>Ojha, Devendra K, Prof,</strong> TIFR, Mumbai</li>
-                <li><strong>P. RAJESH, Dr,</strong> Kancheepuram</li>
-                <li><strong>Palaniandavar M , Prof,</strong> Bharathidasan University, Tiruchirapalli</li>
-                <li><strong>Pandey, Roma, Ms,</strong> Mangalmay Institute of Management,Greater Noida</li>
-                <li><strong>Parnaik, Veena K, Dr,</strong> CCMB, Hyderabad</li>
-                <li><strong>Prakash B, Dr,</strong> Namakkal</li>
-                <li><strong>Prasad, Awadhesh, Dr,</strong> Lucknow</li>
-                <li><strong>Praveen Kumar Vemula , Dr,</strong> INSTEM, Bengaluru</li>
-                <li><strong>R. Nagaraj, Dr,</strong> CCMB, Hyderabad</li>
-                <li><strong>Raghavarao KSMS, Dr,</strong> CFTRI, Mysore</li>
-                <li><strong>Rajendra Bhatia, Prof,</strong> Ashoka University, Sonepat</li>
-                <li><strong>Rajneesh Bhutani, Prof,</strong> Pondicherry University, Puducherri</li>
-                <li><strong>Ram Sagar, Prof,</strong> Bengaluru</li>
-                <li><strong>Ramachandra N.B., Prof,</strong> University of Mysore, Mysore</li>
-                <li><strong>Ramachandra Reddy Arjula, Prof,</strong> University of Hyderabad, Hyderabad</li>
-                <li><strong>Ramakrishna Ramaswamy, Prof,</strong> JNU, New Delhi</li>
-                <li><strong>Ramakrishna Reddy K, Dr,</strong> Government Science College, Bengaluru</li>
-                <li><strong>RAMARAJ R, Dr,</strong> MKU, Madurai</li>
-                <li><strong>Rao, Aroor Pramesh, Prof,</strong> Pune</li>
-                <li><strong>Ray, J.S., Prof,</strong> PRL, Ahmedabad</li>
-                <li><strong>Rengaswamy Ramesh, Prof,</strong> NISER, Bhubaneswar</li>
-                <li><strong>Rex Arunraj D, Dr,</strong> SRM University, Kattankulathur, Kancheepuram</li>
-                <li><strong>Roy, Ashit Baran, Prof,</strong> Kolkata</li>
-                <li><strong>Roy, Probir,,</strong> Bose Institute, Kolkata</li>
-                <li><strong>S N Tandon, Prof,</strong> IUCAA, Pune</li>
-                <li><strong>S. K. Mishra, Dr,</strong> Pune</li>
-                <li><strong>S.Sivasanker, Dr,</strong> IIT, Chennai</li>
-                <li><strong>Sahu, Kriti R, Dr,</strong> Egra SSB College, Purba Medinipur</li>
-                <li><strong>Sane, Sharad S, Prof,</strong> IIT, Mumbai</li>
-                <li><strong>Sankararaman S, Prof,</strong> IIT, Chennai</li>
-                <li><strong>Sarin, Manmohan, Prof,</strong> PRL, Ahmedabad</li>
-                <li><strong>SARITA RANA, Ms,</strong> (null)</li>
-                <li><strong>Shailesh Nayak, Dr,</strong> MoES, New Delhi</li>
-                <li><strong>Shakila Banu P, Dr,</strong> Vellalar College for Women, Erode</li>
-                <li><strong>Shashidhar A, Mr,</strong> IASc, Bengaluru</li>
-                <li><strong>Shenoi Satheesh Chandra, Dr,</strong> INCOIS, Hyderabad</li>
-                <li><strong>Shridhar Mundinamani, Dr,</strong> Siddaganga Institute of Technology, Tumkur</li>
-                <li><strong>Shukla, Prabodh, Prof,</strong> Lucknow</li>
-                <li><strong>Singh, Anand Narain, Dr,</strong> Panjab University, Chandigarh</li>
-                <li><strong>Singh, Prabhat K., Dr,</strong> BARC, Mumbai</li>
-                <li><strong>Singh,Yashwant,,</strong> BHU, Varanasi</li>
-                <li><strong>Sinthika, Dr,</strong> Lady Doak College Madurai</li>
-                <li><strong>Sreekala, C O, Dr,</strong> Amrita School of Arts &amp; Sciences, Kollam</li>
-                <li><strong>Srimathi M, Ms,</strong> IASc, Bengaluru</li>
-                <li><strong>Srivastava, Piyush, Dr,</strong> TIFR, Mumbai</li>
-                <li><strong>Subba Rao, Bookinkere R, Dr,</strong> London, UK</li>
-                <li><strong>Sujit kumar bose, Prof,</strong> Kolkata</li>
-                <li><strong>Sunderarajan P, Dr,</strong>  </li>
-                <li><strong>Sunil Bajpai, Prof,</strong> BSIP, Lucknow</li>
-                <li><strong>Suryanarayana karukola, Mr,</strong> M.R(A) COLLEGE ,VIZIANAGARAM</li>
-                <li><strong>Syiemlieh, David R., Prof,</strong> UPSC, New Delhi</li>
-                <li><strong>T Punniyamurthy , Prof,</strong> IIT, Guwahati</li>
-                <li><strong>Uday Maitra, Prof,</strong> IISc, Bengaluru</li>
-                <li><strong>Umesh V Waghmare, Prof,</strong> JNCASR, Bengaluru</li>
-                <li><strong>V SOILEMTHANG VAIPHEI, Mr,</strong>  </li>
-                <li><strong>Varadarajan, Raghavan , Prof,</strong> IISc, Bengaluru</li>
-                <li><strong>VASANTHKUMAR.B, Dr,</strong> Government Arts &amp; Science College,(Autonomous), KARWAR</li>
-                <li><strong>Venkata Padmanabhan, Dr,</strong> Microsoft Research India, Bengaluru</li>
-                <li><strong>Venkatarathnam N, Mr,</strong> IASc, Bengaluru</li>
-                <li><strong>Vikram Thakur, Prof,</strong> Dehradun</li>
-                <li><strong>Walia, Devesh, Dr,</strong> NEHU, Shillong</li>
-                <li><strong>Y V VENKATESH, Dr,</strong> Bengaluru</li>
-                <li><strong>Yadav, G D, Prof,</strong> ICT, Mumbai</li>
-                <li><strong>Yashonath Subramanian, Prof,</strong> IISc, Bengaluru</li>
-                <li><strong>Yhoshu, Kedovikho, Mr,</strong> Nagaland University, Lumami</li>
-                <li><strong>Yogeshwaran Dhandapani, Mr,</strong> ISI, Bengaluru</li>
-            </ol>
+            <div class="row">
+            <div class="col-md-6">
+                    <h4>Council</h4>
+                    <ol class="general-list">
+                        <li><strong>Prof. R Ramaswamy</strong></li>
+                        <li><strong>Prof. Dipankar Chatterji</strong></li>
+                        <li><strong>Prof. Manindra Agrawal</strong></li>
+                        <li><strong>Prof. K N Ganesh</strong></li>
+                        <li><strong>Prof. Arun K Grover</strong></li>
+                        <li><strong>Prof. Uday Maitra</strong></li>
+                        <li><strong>Prof. Umesh V Waghmare</strong></li>
+                        <li><strong>Prof. R Varadarajan</strong></li>
+                        <li><strong>Prof. Deepak Dhar</strong></li>
+                        <li><strong>Dr Madhu Dikshit</strong></li>
+                        <li><strong>Prof. K H Paranjape</strong></li>
+                        <li><strong>Prof. Ashok Sahni</strong></li>
+                        <li><strong>Prof. Deepak Dhar</strong></li>
+                        <li><strong>Prof. D D Sarma</strong></li>
+                    </ol><br />
+                    <h4>Past President</h4>
+                    <ol class="general-list">
+                        <li><strong>Dr D Balasubramanian</strong></li>
+                        <li><strong>Prof. T V Ramakrishnan</strong></li>
+                        <li><strong>Prof. C N R Rao</strong></li>
+                    </ol><br />
+                    <h4>Speaker</h4>
+                    <ol class="general-list">
+                        <li><strong>Shabana Azmi</strong></li>
+                        <li><strong>Dr Deepa Agashe</strong></li>
+                        <li><strong>Prof. Bikramjit Basu</strong></li>
+                        <li><strong>Dr Riddhipratim Basu</strong></li>
+                        <li><strong>Prof. Alok Bhattacharya</strong></li>
+                        <li><strong>Prof. Aninda J Bhattacharyya</strong></li>
+                        <li><strong>Dr Suvendra N Bhattacharyya</strong></li>
+                        <li><strong>Dr Debanjan Bhowmik</strong></li>
+                        <li><strong>Dr Kanishka Biswas</strong></li>
+                        <li><strong>Dr Jeevanjyoti Chakraborty</strong></li>
+                        <li><strong>Prof. Vijay Chandru</strong></li>
+                        <li><strong>Dr B C Das</strong></li>
+                        <li><strong>Prof. Parthasarathi Dastidar</strong></li>
+                        <li><strong>Prof. Anish Ghosh</strong></li>
+                        <li><strong>Prof. Srubabati Goswami</strong></li>
+                        <li><strong>Prof. B K Patel</strong></li>
+                        <li><strong>Prof. N B Ramachandra</strong></li>
+                        <li><strong>Prof. Geshe N Samten</strong></li>
+                        <li><strong>Prof.  Sanjay Kumar</strong></li>
+                        <li><strong>Prof. D Siddavattam</strong></li>
+                        <li><strong>Dr Imran Siddiqi</strong></li>
+                        <li><strong>Dr Swati Tripathi</strong></li>
+                        <li><strong>Dr Avesh K Tyagi</strong></li>
+                        <li><strong>Dr K Vijayamohanan</strong></li>
+                        <li><strong>Dr Jayanth Vyasanakere</strong></li>
+                        <li><strong>Dr C S Yajnik</strong></li>
+                        <li><strong>Dr S M Yusuf</strong></li>
+                    </ol><br />
+                    <h4>Chairperson</h4>
+                    <ol class="general-list">
+                        <li><strong>Prof. S Ananthakrishnan</strong></li>
+                        <li><strong>Prof. Ashok K Ganguli</strong></li>
+                        <li><strong>Prof. E D Jemmis</strong></li>
+                        <li><strong>Prof. Giridhar U Kulkarni</strong></li>
+                        <li><strong>Prof. Dhananjai Pandey</strong></li>
+                        <li><strong>Prof. Rajiva Raman</strong></li>
+                        <li><strong>Prof. N Sathyamurthy</strong></li>
+                        <li><strong>Prof. A K Singhvi</strong></li>
+                        <li><strong>Prof. R K Srivastava</strong></li>
+                        <li><strong>Dr V C Thakur</strong></li>
+                        <li><strong>Prof. N Viswanadham</strong></li>
+                    </ol><br />
+                    <h4>EB Member - JESS</h4>
+                    <ol class="general-list">
+                        <li><strong>Dr C Gnanaseelan</strong></li>
+                        <li><strong>Dr Rajib Maity</strong></li>
+                        <li><strong>Dr A K Sahai</strong></li>
+                        <li><strong>Dr Pratul K Saraswati</strong></li>
+                        <li><strong>Prof. Pulak Sengupta</strong></li>
+                        <li><strong>Prof.  Abhijit Mukherjee</strong></li>
+                        <li><strong>Prof.  Saibal Gupta</strong></li>
+                        <li><strong>Dr Rajneesh Bhutani</strong></li>
+                    </ol><br />
+                    <h4>EB Member - Pramana</h4>
+                    <ol class="general-list">
+                        <li><strong>Prof. Indranil Mazumdar</strong></li>
+                        <li><strong>Dr M Senthivelan</strong></li>
+                        <li><strong>Prof. Prabodh Shukla</strong></li>
+                        <li><strong>Prof. P B Sunil Kumar</strong></li>
+                        <li><strong>Dr Awadesh Prasad</strong></li>
+                        <li><strong>Dr R K Kotnala</strong></li>
+                        <li><strong>Prof. Tanusri Saha-Dasgupta</strong></li>
+                        <li><strong>Dr Dinesh K Srivastava</strong></li>
+                    </ol><br />
+                    <h4>Fellow From Varanasi</h4>
+                    <ol class="general-list">
+                        <li><strong>Prof. Debabrata Dash</strong></li>
+                        <li><strong>Prof. P Krishna</strong></li>
+                        <li><strong>Prof. H D Kumar</strong></li>
+                        <li><strong>Prof. S C Lakhotia</strong></li>
+                        <li><strong>Prof. D S Pandey</strong></li>
+                        <li><strong>Prof. N V Chalapathi Rao</strong></li>
+                        <li><strong>Prof. J S Singh</strong></li>
+                        <li><strong>Prof. Yashwant Singh</strong></li>
+                        <li><strong>Prof. M S Srinivasan</strong></li>
+                        <li><strong>Prof. Shyam Sundar</strong></li>
+                        <li><strong>Dr Devanjan Sinha</strong></li>
+                    </ol><br />
+                    <h4>Associate</h4>
+                    <ol class="general-list">
+                        <li><strong>Dr Aditya Bandopadhyay</strong></li>
+                        <li><strong>Dr Tunin Ghosh</strong></li>
+                        <li><strong>Dr Rajanish Giri</strong></li>
+                        <li><strong>Dr Nabajit Hazarika</strong></li>
+                        <li><strong>Dr Somnath Jha</strong></li>
+                        <li><strong>Dr Manas Kulkarni</strong></li>
+                        <li><strong>Dr Aditya Kumar</strong></li>
+                        <li><strong>Dr Anupam Kundu</strong></li>
+                        <li><strong>Dr Madhusudan Manjunath</strong></li>
+                        <li><strong>Dr V K Prajapati</strong></li>
+                        <li><strong>Dr Mayank Shrivastava</strong></li>
+                        <li><strong>Dr Arvind Singh</strong></li>
+                        <li><strong>Dr Riddhi Singh</strong></li>
+                        <li><strong>Dr Ranjit Thapa</strong></li>
+                        <li><strong>Dr Ravikrishnan Vinu</strong></li>
+                        <li><strong>Dr Kedovikho Yhoshu</strong></li>
+                    </ol><br />
+                    <h4>Staff</h4>
+                    <ol class="general-list">
+                        <li><strong>Mr N Maheshchandra</strong></li>
+                        <li><strong>Mr Shubankar Biswas</strong></li>
+                        <li><strong>Mr A Shashidhar</strong></li>
+                        <li><strong>Ms Savitha Nair</strong></li>
+                        <li><strong>Mr C S Ravi Kumar</strong></li>
+                        <li><strong>Ms B R Nalini</strong></li>
+                        <li><strong>Mr N Venkatarathnam</strong></li>
+                        <li><strong>Ms Sushila Rajagopal</strong></li>
+                        <li><strong>Ms V Rajitha</strong></li>
+                        <li><strong>Mr N N Brahmananda</strong></li>
+                        <li><strong>Ms B S Asha</strong></li>
+                        <li><strong>Ms Mary J Mathai</strong></li>
+                        <li><strong>Ms N Padmaja</strong></li>
+                        <li><strong>Mr A Jayakumar</strong></li>
+                        <li><strong>Ms M Srimathi</strong></li>
+                        <li><strong>Ms  Chandrika Ramesh</strong></li>
+                        <li><strong>Mr G Madhavan</strong></li>
+                    </ol><br />
+                    <h4>Student Invitee</h4>
+                    <ol class="general-list">
+                        <li><strong>Mr Amit Jangid</strong></li>
+                        <li><strong>Mr Raviteja Donepudi</strong></li>
+                        <li><strong>Mr Kaushal Kumar Simmons</strong></li>
+                        <li><strong>Mr Nitesh Kumar</strong></li>
+                    </ol><br />
+                    <h4>Artiste</h4>
+                    <ol class="general-list">
+                        <li><strong>Dr Smt N. Rajam</strong></li>
+                        <li><strong>Dr Smt  Sangeeta Shankar</strong></li>
+                        <li><strong>Ms Ragini Shankar</strong></li>
+                        <li><strong>Ms Nandini Shankar</strong></li>
+                        <li><strong>Shri Punadalik Bhagwat</strong></li>
+                    </ol><br />
+                </div>
+                <div class="col-md-6">
+                    <h4>Fellow</h4>
+                    <ol class="general-list">
+                        <li><strong>Prof. P C Agrawal</strong></li>
+                        <li><strong>Prof. G V Anand</strong></li>
+                        <li><strong>Prof.  Anil Kumar</strong></li>
+                        <li><strong>Dr B R Arora</strong></li>
+                        <li><strong>Prof. Biman Bagchi</strong></li>
+                        <li><strong>Dr Anil Bhardwaj</strong></li>
+                        <li><strong>Prof. S K Bhattacharya</strong></li>
+                        <li><strong>Prof. S K Bhowmik</strong></li>
+                        <li><strong>Prof. S K Bose</strong></li>
+                        <li><strong>Prof. Subhash Chaturvedi</strong></li>
+                        <li><strong>Dr B M Choudary</strong></li>
+                        <li><strong>Prof. Gobardhan Das</strong></li>
+                        <li><strong>Prof. Shankar Prasad Das</strong></li>
+                        <li><strong>Prof. Somnath Dasgupta</strong></li>
+                        <li><strong>Prof. Swapan K Datta</strong></li>
+                        <li><strong>Prof. S Dattagupta</strong></li>
+                        <li><strong>Prof. B N Dev</strong></li>
+                        <li><strong>Dr M Dileep Kumar</strong></li>
+                        <li><strong>Prof. K R K Easwaran</strong></li>
+                        <li><strong>Prof. S R Gadre</strong></li>
+                        <li><strong>Prof. V K Gaur</strong></li>
+                        <li><strong>Prof. Aswini Ghosh</strong></li>
+                        <li><strong>Prof. Subir K Ghosh</strong></li>
+                        <li><strong>Prof. Subrata Ghosh</strong></li>
+                        <li><strong>Dr Swapan K Ghosh</strong></li>
+                        <li><strong>Prof. J N Goswami</strong></li>
+                        <li><strong>Dr Anil K Gupta</strong></li>
+                        <li><strong>Prof. H Ila</strong></li>
+                        <li><strong>Dr Achuthan Jayaraman</strong></li>
+                        <li><strong>Prof. Amitabh Joshi</strong></li>
+                        <li><strong>Dr A K Kamra</strong></li>
+                        <li><strong>Prof. Tarun Kant</strong></li>
+                        <li><strong>Prof. R L Karandikar</strong></li>
+                        <li><strong>Dr D P Kasbekar</strong></li>
+                        <li><strong>Prof. K Krishnamoorthy</strong></li>
+                        <li><strong>Prof. K C Malhotra</strong></li>
+                        <li><strong>Prof.  Manoj Kumar</strong></li>
+                        <li><strong>Prof. U C Mohanty</strong></li>
+                        <li><strong>Prof. N K Mondal</strong></li>
+                        <li><strong>Prof. S Natarajan</strong></li>
+                        <li><strong>Prof. R R Navalgund</strong></li>
+                        <li><strong>Prof. N Panchapakesan</strong></li>
+                        <li><strong>Dr P C Pandey</strong></li>
+                        <li><strong>Prof. P N Pandita</strong></li>
+                        <li><strong>Dr P A Paranjpe</strong></li>
+                        <li><strong>Prof. Amitava Patra</strong></li>
+                        <li><strong>Prof. A S Raghavendra</strong></li>
+                        <li><strong>Dr S S Rai</strong></li>
+                        <li><strong>Prof. E S Raja Gopal</strong></li>
+                        <li><strong>Dr M Rajeevan</strong></li>
+                        <li><strong>Dr  Ram Sagar</strong></li>
+                        <li><strong>Prof. R Ramachandran</strong></li>
+                        <li><strong>Prof. S Ramanan</strong></li>
+                        <li><strong>Prof. R Ramaraj</strong></li>
+                        <li><strong>Prof. A Pramesh Rao</strong></li>
+                        <li><strong>Dr R Raghavendra Rao</strong></li>
+                        <li><strong>Prof. Probir Roy</strong></li>
+                        <li><strong>Prof. M M Sarin</strong></li>
+                        <li><strong>Dr V V S S Sarma</strong></li>
+                        <li><strong>Prof. H Shekar Shetty</strong></li>
+                        <li><strong>Prof. R K Shyamasundar</strong></li>
+                        <li><strong>Dr R N Singh</strong></li>
+                        <li><strong>Prof. Sunil K Singh</strong></li>
+                        <li><strong>Dr Ramaswamiah Srinivasan</strong></li>
+                        <li><strong>Dr B R Subba Rao</strong></li>
+                        <li><strong>Prof. Ravi Subrahmanyan</strong></li>
+                        <li><strong>Dr J S Yadav</strong></li>
+                        <li><strong>Prof. K S Krishna</strong></li>
+                    </ol><br />
+                    <h4>ACS- Symposium Invitee</h4>
+                    <ol class="general-list">
+                        <li><strong>Prof. Biman Bagchi</strong></li>
+                        <li><strong>Prof. Moumita Roy</strong></li>
+                        <li><strong>Dr Ranjan Kumar Singh</strong></li>
+                        <li><strong>Dr Sandeep Munjal</strong></li>
+                        <li><strong>Prof. Subramanya S Loka</strong></li>
+                        <li><strong>Dr Sujoy Das</strong></li>
+                        <li><strong>Dr Sumit Kumar</strong></li>
+                        <li><strong>Dr Umaprasana Ojha</strong></li>
+                        <li><strong>Dr Soumendra Darbar</strong></li>
+                        <li><strong>Dr Aparna Shukla</strong></li>
+                        <li><strong>Dr Ayan Maity</strong></li>
+                        <li><strong>Dr Sachin Chaudhuri</strong></li>
+                        <li><strong>Prof. Jeremy J Titman</strong></li>
+                        <li><strong>Prof. Vivek Polshetiwar</strong></li>
+                        <li><strong>Prof. S G Sampathkumar</strong></li>
+                        <li><strong>Mr Shubham Parashar</strong></li>
+                        <li><strong>Mr  Soumen Payra</strong></li>
+                        <li><strong>Ms Sarabjit Kaur</strong></li>
+                        <li><strong>Mr Debdas Ray</strong></li>
+                        <li><strong>Mr Zakir Hussain</strong></li>
+                        <li><strong>Mr Nepolraj Amaladoss</strong></li>
+                        <li><strong>Ms Archana Joshi</strong></li>
+                        <li><strong>Mr K V Arivizhivendhan</strong></li>
+                        <li><strong>Mr Bishnupriya Nayak</strong></li>
+                        <li><strong>Mr Prabhakara Rao Dasari</strong></li>
+                        <li><strong>Mr Afaq Ahmad Khan</strong></li>
+                        <li><strong>Mr Irshad Mohammad</strong></li>
+                        <li><strong>Mr Parimal Parikh</strong></li>
+                        <li><strong>Mr Vinodkumar Ugale</strong></li>
+                        <li><strong>Mr Uvanesh Kasiviswanathan</strong></li>
+                        <li><strong>Mr Suresh Subramaniyam</strong></li>
+                        <li><strong>Mr Sumana Y Kotian</strong></li>
+                        <li><strong>Mr Pragneshkumar N Dave</strong></li>
+                        <li><strong>Mr Madhuri P Rao</strong></li>
+                        <li><strong>Mr Abhishek Kumar Soni</strong></li>
+                        <li><strong>Mr Syed Sibtay Razi</strong></li>
+                        <li><strong>Mr Bibekananda De</strong></li>
+                        <li><strong>Mr Avinash Srivastava</strong></li>
+                        <li><strong>Mr Ravi Shankar Verma</strong></li>
+                        <li><strong>Mr M.D. Pandey</strong></li>
+                        <li><strong>Ms Arpna Tamrakar</strong></li>
+                        <li><strong>Ms Geetha Balakrishna R</strong></li>
+                        <li><strong>Mr Manoj Kumar</strong></li>
+                        <li><strong>Mr Raj Kumar Dubey</strong></li>
+                        <li><strong>Ms Pooja Srivastava</strong></li>
+                        <li><strong>Mr Mohd Faheem</strong></li>
+                        <li><strong>Mr Amit Kumar</strong></li>
+                        <li><strong>Mr Vinay Kumar Singh</strong></li>
+                        <li><strong>Mr Gaurav Mittal</strong></li>
+                    </ol><br />
+                    <h4>Teacher</h4>
+                    <ol class="general-list">
+                        <li><strong>Dr Santosh Acharya</strong></li>
+                        <li><strong>Ms K S Gayathri</strong></li>
+                        <li><strong>Dr K V S Ranganath</strong></li>
+                        <li><strong>Prof. Mritunjay Kumar Singh</strong></li>
+                        <li><strong>Dr Jibitesh Dutta</strong></li>
+                        <li><strong>Prof.  Navin Singh</strong></li>
+                        <li><strong>Dr Duraiswamy Raymond A</strong></li>
+                        <li><strong>Prof. H J Shiva Prasad</strong></li>
+                        <li><strong>Prof. V. Madhurima</strong></li>
+                        <li><strong>Dr Javeeta Lahiri</strong></li>
+                        <li><strong>Ms S Padma</strong></li>
+                        <li><strong>Dr Kartick Gupta</strong></li>
+                        <li><strong>Dr Aijaz Arshad </strong></li>
+                        <li><strong>Dr Mrithyunjay Pandey</strong></li>
+                        <li><strong>Dr Felix Bast</strong></li>
+                        <li><strong>Dr Asad Niazi</strong></li>
+                        <li><strong>Dr Subhankar Ghosh</strong></li>
+                        <li><strong>Dr Nayan Kamal Bhattacharyya</strong></li>
+                        <li><strong>Prof. Susmita Sarkar</strong></li>
+                        <li><strong>Prof. D S Ningthoujam</strong></li>
+                        <li><strong>Ms Soma Banik</strong></li>
+                        <li><strong>Dr Dubey Mrigendra</strong></li>
+                        <li><strong>Dr Rishikesh Gupta</strong></li>
+                        <li><strong>Mr Prajapat Ram Narayan</strong></li>
+                        <li><strong>Ms Babita Phukan</strong></li>
+                        <li><strong>Prof. Gopala Krishna Darbha</strong></li>
+                    </ol><br />
+                </div>
+            </div>
         </div>
         <div class="col-md-3 sidebar">
-<?php require_once('application/views/generalSidebar.php');?>
+            <?php require_once('application/views/generalSidebar.php');?>
         </div>
     </div>
 </div>

@@ -11,6 +11,7 @@
 
     <h1>For Participants</h1>
     <ul>
+        <li><a href="<?=BASE_URL?>Information/List_of_Participants">List of Participants</a></li>
         <li><a href="<?=BASE_URL?>Information/Venue">Venue</a></li>
         <li><a href="<?=BASE_URL?>Information/Accommodation">Hospitality</a></li>
         <li><a href="<?=BASE_URL?>Information/Transport">Logistics</a></li>
