@@ -160,7 +160,7 @@
                     <div class="break">
                         <dl class="dl-horizontal">
                             <dt>
-                                1450 - 1530
+                                1450 - 1515
                             </dt>
                             <dd>Tea Break</dd>
                         </dl>
@@ -170,7 +170,7 @@
                         Chairpersons: A K Ganguli, IIT Delhi, New Delhi, and Giridhar Kulkarni, CeNS, Bengaluru<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1530 - 1550
+                                1515 - 1535
                             </dt>
                             <dd>
                                 <span class="speaker">A K Ganguli and Giridhar Kulkarni</span><br />
@@ -179,7 +179,7 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1555 - 1615<br />
+                                1540 - 1600<br />
                                 <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374154987">
                                     <i class="fa fa-info-circle"></i></a>
                                 </div>
@@ -191,7 +191,7 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1620 - 1640<br />
+                                1605 - 1625<br />
                                 <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374256388">
                                     <i class="fa fa-info-circle"></i></a>
                                 </div>
@@ -204,7 +204,7 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1645 - 1705<br />
+                                1630 - 1650<br />
                                 <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374348730">
                                     <i class="fa fa-info-circle"></i></a>
                                 </div>
@@ -217,7 +217,7 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1710 - 1730<br />
+                                1655 - 1715<br />
                                 <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374408121">
                                     <i class="fa fa-info-circle"></i></a>
                                 </div>
@@ -228,11 +228,19 @@
                                 <span class="talk">Low thermal conductive chalcogenides for high performance thermoelectric energy conversion</span>
                             </dd>
                         </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1720 - 1730
+                            </dt>
+                            <dd>
+                                <span class="talk">Discussion</span>
+                            </dd>
+                        </dl>
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
                             <dt>
-                                1735 - 1800
+                                1730 - 1745
                             </dt>
                             <dd>Tea Break</dd>
                         </dl>
@@ -242,7 +250,7 @@
                         Chairperson: Ram Ramaswamy, JNU, New Delhi<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1800 - 1900<br />
+                                1745 - 1845<br />
                                 <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540374459251">
                                     <i class="fa fa-info-circle"></i></a>
                                 </div>
@@ -255,7 +263,7 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1900 - 2000
+                                1915 - 2015
                             </dt>
                             <dd>
                                 <span class="speaker">Smt N Rajam and group</span><br />
@@ -266,9 +274,9 @@
                     <div class="break">
                         <dl class="dl-horizontal">
                             <dt>
-                                2000 - 2100
+                                2015 - 2130
                             </dt>
-                            <dd>Dinner Break</dd>
+                            <dd>Dinner</dd>
                         </dl>
                     </div>
                 </div>
@@ -565,7 +573,7 @@
                     </div>
                     <div class="session">
                         <span class="type">SESSION 3B: Inaugural Lectures by Fellows/Associates</span><br />
-                        Chairperson: R L Karandikar, Chennai Mathematical Institute, Chennai<br />
+                        Chairperson: A K Singhvi, Physical Research Laboratory, Ahmedabad<br />
                         <dl class="dl-horizontal">
                             <dt>
                                 1045 - 1105<br />
@@ -594,14 +602,11 @@
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1135 - 1155<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1540375013691">
-                                    <i class="fa fa-info-circle"></i></a>
-                                </div>
+                                1135 - 1155
                             </dt>
                             <dd>
-                                <span class="speaker">Partha S Chakraborty, IMSc, Chennai</span><br />
-                                <span class="talk">Local index formula– Where do we stand today?</span>
+                                <span class="speaker">Anish Ghosh</span><br />TIFR, Mumbai<br />
+                                <span class="talk">An introduction to some aspects of ergodic theory</span>
                             </dd>
                         </dl>
                     </div>
