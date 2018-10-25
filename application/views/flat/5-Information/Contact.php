@@ -9,9 +9,9 @@
 <div id="grid" class="container gap-above">
     <div class="row">
         <div class="col-md-9 main">
-            <h1>Contact information</h1>
+            <h1>IASc Contact information</h1>
             <div class="row contact">
-                <h2>IASc Contact Information</h2>
+                <h2>Overall coordination</h2>
                 <div class="col-md-10">
                     <strong>N. Maheshchandra</strong><br />
                     Mob: 09008032004
@@ -72,20 +72,20 @@
             <div class="row">
                 <h2>Contact Details Of Accommodation</h2>
                 <div class="col-md-4">
-                    <strong>L. D. Guest House (Priority)<br />Rajan</strong><br />
+                    <strong>L. D. Guest House<br />Rajan</strong><br />
                     Mob: 0542-2368081
                 </div>
                 <div class="col-md-4">
-                    <strong>Hotel Clark (Priority)<br />Divesh Pathak</strong><br />
+                    <strong>Hotel Clark<br />Divesh Pathak</strong><br />
                     Mob: 09335586876<br />
                     Email: reservations@clarkshotels.com
                 </div>
                 <div class="col-md-4">
-                    <strong>L. D. Guest House-Annexue (Priority)<br />Ram Dhani Mishra</strong><br />
+                    <strong>L. D. Guest House-Annexue<br />Ram Dhani Mishra</strong><br />
                     Mob: 0542-2366691<br/><br/><br/>
                 </div>
                 <div class="col-md-4">
-                    <strong>Rameshwaram Vatika (Personnel with Spouse)<br />Mohit Thapa</strong><br />
+                    <strong>Rameshwaram Vatika<br />Mohit Thapa</strong><br />
                     Mob: 06394363105<br />
                     Email: rameshwaramvatika@gmail.com
                 </div>
@@ -120,12 +120,12 @@
                     </div>
                 </div>
                 <div class="row">
-                    <h2>Sectional Committee</h2>
+                    <h2>Sub Committees</h2>
                     <h5>Accommodation</h5>
                     <div class="col-md-6">
-                        <strong>Prof. Arvind Mishra</strong><br />
+                        <strong>Prof. Arvind Misra</strong><br />
                         Mob: +91 9415646480<br />
-                        Email: amishra@bhu.ac.in
+                        Email: amisra@bhu.ac.in
                     </div>
                     <div class="col-md-6">
                         <strong>Prof. Rakesh Pandey</strong><br />
@@ -243,11 +243,11 @@
                     </div>
                 </div>
                 <div class="row">
-                    <h2>Others Contacts</h2>
+                    <h2>Other Contacts</h2>
                     <h5>Patrons</h5>
                     <div class="col-md-6">
                         <strong>Prof. Rakesh Bhatnagar</strong><br />
-                        Mob: +91(542) 2368938 (Off)<br />2368339 (Resi)
+                        +91(542) 2368938 (Off)<br />2368339 (Resi)
                     </div>
                     <div class="col-md-6">
                         <strong>Prof. Rakesh Bhatnagar</strong><br />
@@ -264,13 +264,13 @@
                         <strong>Prof. Sanjay Kumar</strong><br />Mob: +919451585427
                     </div>
                     <div class="col-md-6">
-                        <strong>Prof. H. D. Kumar</strong><br />Mob: <br /><br />
+                        <strong>Prof. H. D. Kumar</strong><br /><br /><br />
                     </div>
                     <div class="col-md-6">
                         <strong>Prof. S. C. Lakhotia</strong><br />Mob: +919453048657
                     </div>
                     <div class="col-md-6">
-                        <strong>Prof. S. Lele</strong><br />Mob: <br /><br />
+                        <strong>Prof. S. Lele</strong><br /> <br /><br />
                     </div>
                     <div class="col-md-6">
                         <strong>Prof. D. Pandey</strong><br />Mob: 0542-2314658
@@ -311,12 +311,12 @@
                     <div class="col-md-12">
                         <strong>Prof. Naveen Kumar</strong><br /><br />
                     </div>
-                    <h5>Secretary</h5>
+                    <h5>Secretaries</h5>
                     <div class="col-md-6">
-                        <strong>Prof. D. S. Pandey</strong>
+                        <strong>Prof. D. S. Pandey</strong><br />Mob: +91 9450960400
                     </div>
                     <div class="col-md-6">
-                        <strong>Prof. Sanjay Kumar</strong>
+                        <strong>Prof. Sanjay Kumar</strong><br />Mob: +91 8299779004 &amp; +91 9451585427
                     </div>
                 </div>
             </div>
