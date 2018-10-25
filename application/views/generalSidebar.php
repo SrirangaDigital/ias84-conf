@@ -7,14 +7,13 @@
         <li><a href="<?=BASE_URL?>Schedule#day3" target="_blank">Day 3</a></li>
         <li><a href="<?=BASE_URL?>Schedule#allied" target="_blank">Allied Events</a></li>
         <li><a href="<?=BASE_URL?>Schedule#spouses" target="_blank">Spouses Programme</a></li>
-        <!-- <li><a href="<?=BASE_URL?>Schedule#cultural" target="_blank">Cultural Event</a></li> -->
     </ul>            
 
     <h1>For Participants</h1>
     <ul>
         <li><a href="<?=BASE_URL?>Information/Venue">Venue</a></li>
-        <!-- <li><a href="<?=BASE_URL?>Information/Accommodation">Hospitality</a></li> -->
-        <!-- <li><a href="<?=BASE_URL?>Information/Transport">Logistics</a></li> -->
+        <li><a href="<?=BASE_URL?>Information/Accommodation">Hospitality</a></li>
+        <li><a href="<?=BASE_URL?>Information/Transport">Logistics</a></li>
         <li><a href="<?=BASE_URL?>Information/Contact">Contact</a></li>
         <li><a href="<?=BASE_URL?>Information/Other">Other Information</a></li>
     </ul>
