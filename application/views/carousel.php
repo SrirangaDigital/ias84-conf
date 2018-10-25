@@ -31,7 +31,7 @@
                         </div> -->
                     </div>
                     <div class="item">
-                        <img src="<?=PUBLIC_URL?>images/stock/carousal/carousal3.jpg" alt="Indian Academy of Sciences">
+                        <img src="<?=PUBLIC_URL?>images/stock/carousal/carousal03.jpg" alt="Indian Academy of Sciences">
                         <!-- <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
                                 <h3 class="caption-title">Indian Academy of Sciences</h3>
@@ -49,7 +49,7 @@
                         </div> -->
                     </div>
                     <div class="item">
-                        <img src="<?=PUBLIC_URL?>images/stock/carousal/carousal5.jpg" alt="Indian Academy of Sciences">
+                        <img src="<?=PUBLIC_URL?>images/stock/carousal/carousal05.jpg" alt="Indian Academy of Sciences">
                         <!-- <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
                                 <h3 class="caption-title">Indian Academy of Sciences</h3>
