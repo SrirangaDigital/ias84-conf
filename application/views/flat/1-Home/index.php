@@ -268,8 +268,8 @@
         <div class="col-md-12">
             <a href="javascript:void(0);" class="info-icon"><i class="fa fa-list-ul"></i><br />List of Participants</a><!-- <?=BASE_URL?>Information/List_of_Participants -->
             <a href="<?=BASE_URL?>Information/Venue" class="info-icon"><i class="fa fa-map-marker"></i><br />Venue</a>
-            <a href="javascript:void(0);" class="info-icon"><i class="fa fa-bed"></i><br />Hospitality</a>
-            <a href="javascript:void(0);" class="info-icon"><i class="fa fa-bus"></i><br />Logistics</a><br />
+            <a href="<?=BASE_URL?>Information/Accommodation" class="info-icon"><i class="fa fa-bed"></i><br />Hospitality</a>
+            <a href="<?=BASE_URL?>Information/Transport" class="info-icon"><i class="fa fa-bus"></i><br />Logistics</a><br />
             <a href="<?=BASE_URL?>Information/Contact" class="info-icon"><i class="fa fa-phone"></i><br />Contact</a>
             <a href="<?=BASE_URL?>Information/Downloads" class="info-icon"><i class="fa fa-download"></i><br />Downloads</a><!-- Information/Downloads -->
             <a href="<?=BASE_URL?>Information/Other" class="info-icon"><i class="fa fa-ellipsis-h"></i><br />Other information</a>
