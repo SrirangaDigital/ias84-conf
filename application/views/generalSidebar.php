@@ -12,10 +12,15 @@
 
     <h1>For Participants</h1>
     <ul>
-        <!-- <li><a href="http://web-japps.ias.ac.in:8080/Annualmeeting2017/annual/register/Register.jsp" target="_blank">Registration</a></li> -->
-        <!-- <li><a href="<?=BASE_URL?>Information/Venue">Venue</a></li> -->
+        <li><a href="<?=BASE_URL?>Information/Venue">Venue</a></li>
         <!-- <li><a href="<?=BASE_URL?>Information/Accommodation">Hospitality</a></li> -->
         <!-- <li><a href="<?=BASE_URL?>Information/Transport">Logistics</a></li> -->
         <li><a href="<?=BASE_URL?>Information/Contact">Contact</a></li>
-        <!-- <li><a href="<?=BASE_URL?>Information/Other">Other Information</a></li> -->
+        <li><a href="<?=BASE_URL?>Information/Other">Other Information</a></li>
+    </ul>
+
+    <h1>Downloads</h1>
+    <ul>
+        <li><a target="_blank" href="<?=DOWNLOAD_URL?>Abstract_Book.pdf">Speaker Profiles and Abstracts</a></li>
+        <li><a href="<?=DOWNLOAD_URL?>Program.pdf" target="_blank">Programme</a></li>
     </ul>

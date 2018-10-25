@@ -17,10 +17,10 @@
                 </li>
                 <li>
                     <strong>Schedules and Posters</strong><br />
-                    <a href="<?=DOWNLOAD_URL?>Card.pdf" target="_blank">Programme Card</a><br />
+                    <!-- <a href="<?=DOWNLOAD_URL?>Card.pdf" target="_blank">Programme Card</a><br /> -->
                     <a href="<?=DOWNLOAD_URL?>Program.pdf" target="_blank">Programme</a><br />
-                    <a href="javascript:void(0);" target="_blank">Special Lectures</a><br />
-                    <a href="<?=DOWNLOAD_URL?>Symposia.pdf" target="_blank">Symposia</a>
+                    <!-- <a href="javascript:void(0);" target="_blank">Special Lectures</a><br /> -->
+                    <!-- <a href="<?=DOWNLOAD_URL?>Symposia.pdf" target="_blank">Symposia</a> -->
                 </li>
             </ul>
         </div>

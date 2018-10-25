@@ -67,13 +67,12 @@
             </div>
             <div class="collapse navbar-collapse" id="navbar-primary-collapse">
                 <ul class="nav navbar-nav">
+                    <li class="center-logo">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
                     <li class="center-logo"><a href="<?=BASE_URL?>#home">Home</a></li>
                     <li class="navSeparator"><a>·</a></li>
                     <li><a href="<?=BASE_URL?>About">About</a></li>
                     <li class="navSeparator"><a>·</a></li>
                     <li><a href="<?=BASE_URL?>#speakers">Speakers</a></li>
-                    <li class="navSeparator"><a>·</a></li>
-                    <li><a href="javascript:void(0);">Registration</a></li>
                     <!-- <li><a href="<?=BASE_URL?>Gallery">Gallery</a></li> -->
                     <li id="navLogo"><a href="<?=BASE_URL?>#home"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Academy of Sciences" class="img-circle logo"></a></li>
                     <li><a href="<?=BASE_URL?>Schedule">Schedule</a></li>

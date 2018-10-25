@@ -271,7 +271,7 @@
             <a href="javascript:void(0);" class="info-icon"><i class="fa fa-bed"></i><br />Hospitality</a>
             <a href="javascript:void(0);" class="info-icon"><i class="fa fa-bus"></i><br />Logistics</a><br />
             <a href="<?=BASE_URL?>Information/Contact" class="info-icon"><i class="fa fa-phone"></i><br />Contact</a>
-            <a href="javascript:void(0);" class="info-icon"><i class="fa fa-download"></i><br />Downloads</a><!-- Information/Downloads -->
+            <a href="<?=BASE_URL?>Information/Downloads" class="info-icon"><i class="fa fa-download"></i><br />Downloads</a><!-- Information/Downloads -->
             <a href="<?=BASE_URL?>Information/Other" class="info-icon"><i class="fa fa-ellipsis-h"></i><br />Other information</a>
         </div>
     </div>
