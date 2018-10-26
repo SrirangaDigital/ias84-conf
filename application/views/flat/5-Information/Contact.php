@@ -90,7 +90,7 @@
                     Email: rameshwaramvatika@gmail.com
                 </div>
                 <div class="col-md-4">
-                    <strong>Hotel Uday Palace (Personnel with Spouse)</strong><br />
+                    <strong>Hotel Uday Palace</strong><br />
                     Mob: 08881889936<br />
                     Email: sales.hoteludaypalace@gmail.com
                 </div>
