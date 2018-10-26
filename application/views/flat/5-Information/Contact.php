@@ -17,7 +17,7 @@
                     Mob: 09008032004
                 </div>
                 <div class="col-md-12">
-                    <h5>Transport and Accomodation</h5>
+                    <h2>Transport and Accomodation</h2>
                     <div class="row">
                         <div class="col-md-6">
                             <strong>C S Ravikumar</strong><br />
@@ -30,7 +30,7 @@
                     </div>
                 </div>
                 <div class="col-md-12">
-                    <h5>Speakers’ Presentations &amp; Scientific Programme</h5>
+                    <h2>Speakers’ Presentations &amp; Scientific Programme</h2>
                     <div class="row">
                         <div class="col-md-6">
                             <strong>M Srimathi</strong><br />
@@ -43,7 +43,7 @@
                     </div>
                 </div>
                 <div class="col-md-12">
-                    <h5>Programme for Spouses</h5>
+                    <h2>Programme for Spouses</h2>
                     <div class="row">
                         <div class="col-md-6">
                             <strong>Chandrika Ramesh</strong><br />
@@ -56,7 +56,7 @@
                     </div>
                 </div>
                 <div class="col-md-12">
-                    <h5>TA/DA and other claims</h5>
+                    <h2>TA/DA and other claims</h2>
                     <div class="row">
                         <div class="col-md-6">
                             <strong>A Shashidhar</strong><br />
@@ -82,7 +82,7 @@
                 </div>
                 <div class="col-md-4">
                     <strong>L. D. Guest House-Annexue<br />Ram Dhani Mishra</strong><br />
-                    Mob: 0542-2366691<br/><br/><br/>
+                    Mob: 0542-2366691<br/><br/><br/><br/>
                 </div>
                 <div class="col-md-4">
                     <strong>Rameshwaram Vatika<br />Mohit Thapa</strong><br />
@@ -97,7 +97,7 @@
                 <div class="col-md-4">
                     <strong>Premiere Villa</strong><br />
                     Mob: 08953003895<br />
-                    Email: info@premierevilla.com<br /><br /><br /><br /><br />
+                    Email: info@premierevilla.com<br /><br /><br /><br />
                 </div>
                 <div class="col-md-4">
                     <strong>Broadway<br />Prashant Tiwari</strong><br />
