@@ -200,8 +200,8 @@
                 <figcaption class="figure-caption text-xs-right">Jayanth Vyasanakere</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1540375976736">
-                <img src="<?=CMS_URL?>public/data/meetings/AM2018/1540375976736/profile.jpg" class="speaker-thumbnail" alt="Partha Chakraborty" title="Partha Chakraborty" />
-                <figcaption class="figure-caption text-xs-right">Partha Chakraborty</figcaption>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2018/1540375976736/profile.jpg" class="speaker-thumbnail" alt="Anish Ghosh" title="Anish Ghosh" />
+                <figcaption class="figure-caption text-xs-right">Anish Ghosh</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1540376044624">
                 <img src="<?=CMS_URL?>public/data/meetings/AM2018/1540376044624/profile.jpg" class="speaker-thumbnail" alt="Vijay Chandru" title="Vijay Chandru" />

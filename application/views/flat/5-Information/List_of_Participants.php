@@ -12,7 +12,7 @@
             <h1>List of Participants</h1>
             <div class="row">
             <div class="col-md-6">
-                    <h4>Council</h4>
+                    <h4>Council Members</h4>
                     <ol class="general-list">
                         <li><strong>Prof. R Ramaswamy</strong></li>
                         <li><strong>Prof. Dipankar Chatterji</strong></li>
@@ -29,13 +29,13 @@
                         <li><strong>Prof. Deepak Dhar</strong></li>
                         <li><strong>Prof. D D Sarma</strong></li>
                     </ol><br />
-                    <h4>Past President</h4>
+                    <h4>Past Presidents</h4>
                     <ol class="general-list">
                         <li><strong>Dr D Balasubramanian</strong></li>
                         <li><strong>Prof. T V Ramakrishnan</strong></li>
                         <li><strong>Prof. C N R Rao</strong></li>
                     </ol><br />
-                    <h4>Speaker</h4>
+                    <h4>Speakers</h4>
                     <ol class="general-list">
                         <li><strong>Shabana Azmi</strong></li>
                         <li><strong>Dr Deepa Agashe</strong></li>
@@ -65,7 +65,7 @@
                         <li><strong>Dr C S Yajnik</strong></li>
                         <li><strong>Dr S M Yusuf</strong></li>
                     </ol><br />
-                    <h4>Chairperson</h4>
+                    <h4>Chairpersons</h4>
                     <ol class="general-list">
                         <li><strong>Prof. S Ananthakrishnan</strong></li>
                         <li><strong>Prof. Ashok K Ganguli</strong></li>
@@ -79,7 +79,7 @@
                         <li><strong>Dr V C Thakur</strong></li>
                         <li><strong>Prof. N Viswanadham</strong></li>
                     </ol><br />
-                    <h4>EB Member - JESS</h4>
+                    <h4>EB Members - JESS</h4>
                     <ol class="general-list">
                         <li><strong>Dr C Gnanaseelan</strong></li>
                         <li><strong>Dr Rajib Maity</strong></li>
@@ -90,7 +90,7 @@
                         <li><strong>Prof.  Saibal Gupta</strong></li>
                         <li><strong>Dr Rajneesh Bhutani</strong></li>
                     </ol><br />
-                    <h4>EB Member - Pramana</h4>
+                    <h4>EB Members - Pramana</h4>
                     <ol class="general-list">
                         <li><strong>Prof. Indranil Mazumdar</strong></li>
                         <li><strong>Dr M Senthivelan</strong></li>
@@ -101,7 +101,7 @@
                         <li><strong>Prof. Tanusri Saha-Dasgupta</strong></li>
                         <li><strong>Dr Dinesh K Srivastava</strong></li>
                     </ol><br />
-                    <h4>Fellow From Varanasi</h4>
+                    <h4>Fellows From Varanasi</h4>
                     <ol class="general-list">
                         <li><strong>Prof. Debabrata Dash</strong></li>
                         <li><strong>Prof. P Krishna</strong></li>
@@ -115,7 +115,7 @@
                         <li><strong>Prof. Shyam Sundar</strong></li>
                         <li><strong>Dr Devanjan Sinha</strong></li>
                     </ol><br />
-                    <h4>Associate</h4>
+                    <h4>Associates</h4>
                     <ol class="general-list">
                         <li><strong>Dr Aditya Bandopadhyay</strong></li>
                         <li><strong>Dr Tunin Ghosh</strong></li>
@@ -154,24 +154,24 @@
                         <li><strong>Ms  Chandrika Ramesh</strong></li>
                         <li><strong>Mr G Madhavan</strong></li>
                     </ol><br />
-                    <h4>Student Invitee</h4>
+                    <h4>Student Invitees</h4>
                     <ol class="general-list">
                         <li><strong>Mr Amit Jangid</strong></li>
                         <li><strong>Mr Raviteja Donepudi</strong></li>
                         <li><strong>Mr Kaushal Kumar Simmons</strong></li>
                         <li><strong>Mr Nitesh Kumar</strong></li>
                     </ol><br />
-                    <h4>Artiste</h4>
+                    <h4>Artistes</h4>
                     <ol class="general-list">
                         <li><strong>Dr Smt N. Rajam</strong></li>
                         <li><strong>Dr Smt  Sangeeta Shankar</strong></li>
                         <li><strong>Ms Ragini Shankar</strong></li>
                         <li><strong>Ms Nandini Shankar</strong></li>
-                        <li><strong>Shri Punadalik Bhagwat</strong></li>
+                        <li><strong>Shri Pundalik Bhagwatt</strong></li>
                     </ol><br />
                 </div>
                 <div class="col-md-6">
-                    <h4>Fellow</h4>
+                    <h4>Fellows</h4>
                     <ol class="general-list">
                         <li><strong>Prof. P C Agrawal</strong></li>
                         <li><strong>Prof. G V Anand</strong></li>
@@ -294,7 +294,7 @@
                         <li><strong>Mr Vinay Kumar Singh</strong></li>
                         <li><strong>Mr Gaurav Mittal</strong></li>
                     </ol><br />
-                    <h4>Teacher</h4>
+                    <h4>Teachers</h4>
                     <ol class="general-list">
                         <li><strong>Dr Santosh Acharya</strong></li>
                         <li><strong>Ms K S Gayathri</strong></li>
