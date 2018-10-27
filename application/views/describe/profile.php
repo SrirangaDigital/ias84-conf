@@ -22,7 +22,7 @@
             </div>
 
             <?php if(isset($data->externalLink->video)) { ?>
-                <video width="600" controls poster="<?=PUBLIC_URL?>multimedia/<?=$data->externalLink->videoPoster?>" style="margin-top: 40px;">
+                <video width="600" class="img-responsive" controls poster="<?=PUBLIC_URL?>multimedia/<?=$data->externalLink->videoPoster?>" style="margin-top: 40px;">
                   <source src="<?=PUBLIC_URL?>multimedia/<?=$data->externalLink->video?>" type="video/mp4">
                 </video>
             <?php } ?>
