@@ -245,13 +245,9 @@
                 <div class="row">
                     <h2>Other Contacts</h2>
                     <h5>Patrons</h5>
-                    <div class="col-md-6">
+                    <div class="col-md-12">
                         <strong>Prof. Rakesh Bhatnagar</strong><br />
-                        +91(542) 2368938 (Off)<br />2368339 (Resi)
-                    </div>
-                    <div class="col-md-6">
-                        <strong>Prof. Rakesh Bhatnagar</strong><br />
-                        Mob: +91 78930 93737<br /><br /><br />
+                        +91 (542) 2368938 (Off) <br /> 2368339 (Res)<br /><br />
                     </div>
                     <h5>Organizing Committee</h5>
                     <div class="col-md-6">

@@ -13,7 +13,7 @@
             <ul class="general-list">
                 <li>
                     <strong>Abstracts of Lectures</strong><br />
-                    <a target="_blank" href="<?=DOWNLOAD_URL?>Abstract_Book.pdf">Speaker Profiles and Abstracts</a><br />
+                    <a target="_blank" href="<?=DOWNLOAD_URL?>Abstract_Book.pdf">Speaker Profiles and Abstracts</a><br /><br />
                 </li>
                 <li>
                     <strong>Schedules and Posters</strong><br />
@@ -24,7 +24,14 @@
                     <a href="<?=DOWNLOAD_URL?>Public_Lectures.pdf" target="_blank">Public Lectures</a><br />
                     <a href="<?=DOWNLOAD_URL?>Spl_Lectures_Poster.pdf" target="_blank">Special Lectures</a><br />
                     <a href="<?=DOWNLOAD_URL?>Symposia_Poster_Final.pdf" target="_blank">Symposia</a><br />
-                    <a href="https://www.ias.ac.in/public/Resources/Other_Publications/Annual_Reports/annrep2018.pdf" target="_blank">Annual Report</a><br />
+                    <a href="https://www.ias.ac.in/public/Resources/Other_Publications/Annual_Reports/annrep2018.pdf" target="_blank">Annual Report</a><br /><br />
+                </li>
+                <li>
+                <strong>Allied Events</strong><br />
+                    <a href="<?=DOWNLOAD_URL?>Allied_Abstract_book.pdf" target="_blank">Abstract_book</a><br />
+                    <a href="<?=DOWNLOAD_URL?>Oral_Presentation_Schedule.pdf" target="_blank">Oral Presentation Schedule</a><br />
+                    <a href="<?=DOWNLOAD_URL?>Poster_Session.pdf" target="_blank">Poster Session</a><br />
+                    <a href="<?=DOWNLOAD_URL?>Programme_Flyer.pdf" target="_blank">Programme Flyer</a>
                 </li>
             </ul>
         </div>

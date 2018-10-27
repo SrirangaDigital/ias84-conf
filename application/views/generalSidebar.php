@@ -1,5 +1,4 @@
     <h1>Quick links</h1>
-
     <h1>Schedule</h1>
     <ul>
         <li><a href="<?=BASE_URL?>Schedule#day1" target="_blank">Day 1</a></li>
@@ -8,7 +7,6 @@
         <li><a href="<?=BASE_URL?>Schedule#allied" target="_blank">Allied Events</a></li>
         <li><a href="<?=BASE_URL?>Schedule#spouses" target="_blank">Spouses Programme</a></li>
     </ul>            
-
     <h1>For Participants</h1>
     <ul>
         <li><a href="<?=BASE_URL?>Information/List_of_Participants">List of Participants</a></li>
@@ -18,7 +16,6 @@
         <li><a href="<?=BASE_URL?>Information/Contact">Contact</a></li>
         <li><a href="<?=BASE_URL?>Information/Other">Other Information</a></li>
     </ul>
-
     <h1>Downloads</h1>
     <ul>
         <li><a target="_blank" href="<?=DOWNLOAD_URL?>Abstract_Book.pdf">Speaker Profiles and Abstracts</a></li>
@@ -30,4 +27,11 @@
         <li><a href="<?=DOWNLOAD_URL?>Spl_Lectures_Poster.pdf" target="_blank">Special Lectures</a></li>
         <li><a href="<?=DOWNLOAD_URL?>Symposia_Poster_Final.pdf" target="_blank">Symposia</a></li>
         <li><a href="https://www.ias.ac.in/public/Resources/Other_Publications/Annual_Reports/annrep2018.pdf" target="_blank">Annual Report</a></li>
+    </ul>
+    <h1>Allied Events</h1>
+    <ul>
+        <li><a href="<?=DOWNLOAD_URL?>Allied_Abstract_book.pdf" target="_blank">Abstract book</a></li>
+        <li><a href="<?=DOWNLOAD_URL?>Oral_Presentation_Schedule.pdf" target="_blank">Oral Presentation Schedule</a></li>
+        <li><a href="<?=DOWNLOAD_URL?>Poster_Session.pdf" target="_blank">Poster Session</a></li>
+        <li><a href="<?=DOWNLOAD_URL?>Programme_Flyer.pdf" target="_blank">Programme Flyer</a></li>
     </ul>
