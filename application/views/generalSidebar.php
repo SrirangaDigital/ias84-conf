@@ -29,4 +29,5 @@
         <li><a href="<?=DOWNLOAD_URL?>Public_Lectures.pdf" target="_blank">Public Lectures</a></li>
         <li><a href="<?=DOWNLOAD_URL?>Spl_Lectures_Poster.pdf" target="_blank">Special Lectures</a></li>
         <li><a href="<?=DOWNLOAD_URL?>Symposia_Poster_Final.pdf" target="_blank">Symposia</a></li>
+        <li><a href="https://www.ias.ac.in/public/Resources/Other_Publications/Annual_Reports/annrep2018.pdf" target="_blank">Annual Report</a></li>
     </ul>
