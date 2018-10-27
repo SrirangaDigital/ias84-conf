@@ -20,6 +20,13 @@
                     <img src="<?=$data->speaker->photoUrl?>" class="profile-thumb img-responsive" alt="<?= $data->speaker->name ?>" />
                 </div>
             </div>
+
+            <?php if(isset($data->externalLink->video)) { ?>
+                <video width="600" controls poster="<?=PUBLIC_URL?>multimedia/<?=$data->externalLink->videoPoster?>" style="margin-top: 40px;">
+                  <source src="<?=PUBLIC_URL?>multimedia/<?=$data->externalLink->video?>" type="video/mp4">
+                </video>
+            <?php } ?>
+
             <div class="talk">
                 <p class="type"><?=$data->talk->session?></p>
                 <p class="affiliation"><?=$data->talk->chairperson?></p>
@@ -34,7 +41,7 @@
 <?php if(isset($data->externalLink->youtube)) { ?>
                     <div class="youtube text-center gap-above"><iframe src="<?=$data->externalLink->youtube?>"></iframe></div>
 <?php } ?>
-                
+
                 <p class="abstract gap-above">
                     <?= $data->talk->abstract ?>
                 </p>
