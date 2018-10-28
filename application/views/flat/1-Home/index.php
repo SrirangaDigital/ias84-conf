@@ -293,6 +293,7 @@
             <a target="_blank" title="YouTube" href="javascript:void(0)" class="info-icon"><i class="fa fa-youtube"></i></a>
             <a target="_blank" title="Twitter" href="https://twitter.com/IAScBng" class="info-icon"><i class="fa fa-twitter"></i></a>
             <a target="_blank" title="Facebook" href="https://www.facebook.com/IAScBng" class="info-icon"><i class="fa fa-facebook"></i></a>
+            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.eightyfour.IASc.AM" class="info-icon"><img class="google-play" src="<?=STOCK_IMAGE_URL?>googlePlay.jpg"/></a>
         </div>
     </div>
 </div>

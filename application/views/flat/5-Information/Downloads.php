@@ -29,8 +29,8 @@
                 <li>
                 <strong>Allied Events</strong><br />
                     <a href="<?=DOWNLOAD_URL?>Allied_Abstract_book.pdf" target="_blank">Abstract book</a><br />
-                    <a href="<?=DOWNLOAD_URL?>Oral_Presentation_Schedule.pdf" target="_blank">Oral Presentation Schedule</a><br />
-                    <a href="<?=DOWNLOAD_URL?>Poster_Session.pdf" target="_blank">Poster Session</a><br />
+                    <a href="<?=DOWNLOAD_URL?>Oral_Presentation_Schedule.pdf?v=1.0.0" target="_blank">Oral Presentation Schedule</a><br />
+                    <a href="<?=DOWNLOAD_URL?>Poster_Session.pdf?v=1.0.0" target="_blank">Poster Session</a><br />
                     <a href="<?=DOWNLOAD_URL?>Programme_Flyer.pdf" target="_blank">Programme Flyer</a>
                 </li>
             </ul>
