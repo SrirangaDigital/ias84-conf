@@ -134,7 +134,7 @@
                         <li><strong>Dr Ravikrishnan Vinu</strong></li>
                         <li><strong>Dr Kedovikho Yhoshu</strong></li>
                     </ol><br />
-                    <h4>Staff</h4>
+                    <h4>IASc Staff</h4>
                     <ol class="general-list">
                         <li><strong>Mr N Maheshchandra</strong></li>
                         <li><strong>Mr Shubankar Biswas</strong></li>
@@ -153,6 +153,7 @@
                         <li><strong>Ms M Srimathi</strong></li>
                         <li><strong>Ms  Chandrika Ramesh</strong></li>
                         <li><strong>Mr G Madhavan</strong></li>
+                        <li><strong>Roopashri M S</strong></li>
                     </ol><br />
                     <h4>Student Invitees</h4>
                     <ol class="general-list">
