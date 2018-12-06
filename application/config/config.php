@@ -8,7 +8,7 @@ define('XML_SRC_URL', BASE_URL . 'md-src/xml/');
 define('PHOTO_URL', PUBLIC_URL . 'Photos/');
 define('DOWNLOAD_URL', PUBLIC_URL . 'Downloads/');
 define('STOCK_IMAGE_URL', PUBLIC_URL . 'images/stock/');
-define('RESOURCES_URL', PUBLIC_URL . 'images/gallery/');
+define('RESOURCES_URL', PUBLIC_URL . 'Photos/');
 
 // Physical location of resources
 define('PHY_BASE_URL', '/var/www/html/ias84-conf/');

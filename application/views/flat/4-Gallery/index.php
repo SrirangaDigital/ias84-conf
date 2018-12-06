@@ -7,24 +7,31 @@
     <div class="row">
         <div class="col-md-12 text-center">
             <a href="<?=BASE_URL?>Gallery/Day1">
-                <div id="block1" class="col-md-4 schedule-block">
+                <div id="block1" class="col-md-3 schedule-block">
                     <p class="dayNum">Day 1</p>
-                    <p class="date">29<sup>th</sup> June 2018</p>
+                    <p class="date">2<sup>nd</sup> November 2018</p>
                     <p class="day">Friday</p>
                 </div>
             </a>
             <a href="<?=BASE_URL?>Gallery/Day2">
-                <div id="block2" class="col-md-4 schedule-block">
+                <div id="block2" class="col-md-3 schedule-block">
                     <p class="dayNum">Day 2</p>
-                    <p class="date">30<sup>th</sup> June 2018</p>
+                    <p class="date">3<sup>rd</sup> November 2018</p>
                     <p class="day">Saturday</p>
                 </div>
             </a>
+            <a href="<?=BASE_URL?>Gallery/Day3">
+                <div id="block3" class="col-md-3 schedule-block">
+                    <p class="dayNum">Day 3</p>
+                    <p class="date">4<sup>th</sup> November 2018</p>
+                    <p class="day">Sunday</p>
+                </div>
+            </a>
             <a href="<?=BASE_URL?>Gallery/AlliedEvents">
-                <div id="block3" class="col-md-4 schedule-block">
+                <div id="block4" class="col-md-3 schedule-block">
                     <p class="dayNum">Allied Events</p>
-                    <p class="date">29<sup>th</sup> &amp; 30<sup>th</sup> June 2018</p>
-                    <p class="day">Friday &amp; Saturday</p>
+                    <p class="date">31<sup>st</sup> October &nbsp;&nbsp;2018</p>
+                    <p class="day">Wednesday</p>
                 </div>
             </a>
         </div>
