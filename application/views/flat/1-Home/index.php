@@ -86,7 +86,7 @@
     <div class="row">
         <div class="col-md-12">
             <p class="speaker-type">Presided by</p>
-            <a href="<?=BASE_URL?>Speakers/Ram_Ramaswamy">
+            <a href="<?=BASE_URL?>describe/profile/1540372867249">
                 <img src="<?=CMS_URL?>public/data/meetings/AM2018/1540372867249/profile.jpg" class="speaker-thumbnail" alt="Ramakrishna Ramaswamy" title="Ramakrishna Ramaswamy" />
                 <figcaption class="figure-caption text-xs-right">Ramakrishna Ramaswamy</figcaption>
             </a>
