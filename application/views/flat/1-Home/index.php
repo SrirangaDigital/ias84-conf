@@ -286,8 +286,7 @@
     </div>
     <div class="row" id="twitterContainer">
         <div class="col-md-6 col-sm-12">
-            <h3><a target="_blank" href="javascript:void(0);">Tweets about 84th annual meeting will be Coming soon</a></h3>
-            <!-- <h3><a target="_blank" href="https://twitter.com/search?q=%2329MYM%20from%3AIAScBng&src=savs">Click here to view tweets about #29MYM by @IAScBng</a></h3> -->
+            <h3><a target="_blank" href="https://twitter.com/hashtag/IASc84AM?src=hash">Click here to view tweets about #84MYM by @IAScBng</a></h3>
         </div>
         <div class="col-md-6 text-center col-sm-12">
             <a target="_blank" title="YouTube" href="javascript:void(0)" class="info-icon"><i class="fa fa-youtube"></i></a>
