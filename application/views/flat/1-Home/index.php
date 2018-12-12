@@ -289,7 +289,10 @@
     </div>
     <div class="row" id="twitterContainer">
         <div class="col-md-6 col-sm-12">
-            <h3><a target="_blank" href="https://twitter.com/hashtag/IASc84AM?src=hash">Click here to view tweets about #IASc84AM by @IAScBng</a></h3>
+            <div style="height: 400px; overflow: auto;">
+                <a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/IAScBng/timelines/1072763839794401281?ref_src=twsrc%5Etfw">Annual Meeting 2018 - Curated tweets by IAScBng</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+            <!-- <h3><a target="_blank" href="https://twitter.com/hashtag/IASc84AM?src=hash">Click here to view tweets about #IASc84AM by @IAScBng</a></h3> -->
         </div>
         <div class="col-md-6 text-center col-sm-12">
             <a target="_blank" title="YouTube" href="https://www.youtube.com/playlist?list=PLXkPBNeac4NyMdHrkEilF0T7YA41HkXUf" class="info-icon"><i class="fa fa-youtube"></i></a>
