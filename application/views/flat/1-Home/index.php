@@ -289,9 +289,9 @@
             <h3><a target="_blank" href="https://twitter.com/hashtag/IASc84AM?src=hash">Click here to view tweets about #IASc84AM by @IAScBng</a></h3>
         </div>
         <div class="col-md-6 text-center col-sm-12">
-            <a target="_blank" title="YouTube" href="javascript:void(0)" class="info-icon"><i class="fa fa-youtube"></i></a>
-            <a target="_blank" title="Twitter" href="https://twitter.com/IAScBng" class="info-icon"><i class="fa fa-twitter"></i></a>
-            <a target="_blank" title="Facebook" href="https://www.facebook.com/IAScBng" class="info-icon"><i class="fa fa-facebook"></i></a>
+            <a target="_blank" title="YouTube" href="https://www.youtube.com/playlist?list=PLXkPBNeac4NyMdHrkEilF0T7YA41HkXUf" class="info-icon"><i class="fa fa-youtube"></i></a>
+            <a target="_blank" title="Twitter" href="https://twitter.com/search?f=tweets&vertical=default&q=%23IASc84AM&src=typd" class="info-icon"><i class="fa fa-twitter"></i></a>
+            <a target="_blank" title="Facebook" href="https://www.facebook.com/search/str/%23iasc84am/keywords_blended_posts?epa=FILTERS&filters=eyJycF9hdXRob3IiOiJ7XCJuYW1lXCI6XCJhdXRob3JcIixcImFyZ3NcIjpcIjExMzIxNjY5OTAyMTgzOVwifSJ9" class="info-icon"><i class="fa fa-facebook"></i></a>
             <a target="_blank" href="https://play.google.com/store/apps/details?id=com.eightyfour.IASc.AM" class="info-icon"><img class="google-play" src="<?=STOCK_IMAGE_URL?>googlePlay.jpg"/></a>
         </div>
     </div>
