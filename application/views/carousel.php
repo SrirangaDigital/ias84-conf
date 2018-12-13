@@ -16,66 +16,66 @@
                 <div class="carousel-inner">
                     <div class="item active">
                         <img src="<?=PUBLIC_URL?>images/stock/carousal/2018carousal1.jpg" alt="Indian Academy of Sciences">
-                       <!-- <div class="override-carousel-caption pos-2-3-left scheme-dark">
+                       <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
-                                <h3>84<sup>th</sup> Annual Meeting</h3>
-                                <p>2<sup>nd</sup> to 4<sup>th</sup> November 2018 Venue: Banaras Hindu University,<br />Varanasi<br>
+                                <h3>84<sup>th</sup> Annual Meeting - 2018</h3>
+                                <p>Event Glimpses</p>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                     <div class="item">
                         <img src="<?=PUBLIC_URL?>images/stock/carousal/2018carousal2.jpg" alt="Indian Academy of Sciences">
-                        <!-- <div class="override-carousel-caption pos-2-3-left scheme-dark">
+                        <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
-                                <h3>29<sup>th</sup> Mid Year Meeting</h3>
-                                <p>Participants</p>
+                                <h3>84<sup>th</sup> Annual Meeting - 2018</h3>
+                                <p>Event Glimpses</p>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                     <div class="item">
                         <img src="<?=PUBLIC_URL?>images/stock/carousal/2018carousal3.jpg" alt="Indian Academy of Sciences">
-                        <!-- <div class="override-carousel-caption pos-2-3-left scheme-dark">
+                        <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
-                                <h3 class="caption-title">Indian Academy of Sciences</h3>
-                                <p>The Indian Academy of Sciences, founded as a Society by Professor C. V. Raman on 27 April 1934, aims to promote the advancement of science in both pure and applied branches through the support of original research and the dissemination of scientific knowledge to the community.</p>
+                                <h3>84<sup>th</sup> Annual Meeting - 2018</h3>
+                                <p>Event Glimpses</p>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                     <div class="item">
                         <img src="<?=PUBLIC_URL?>images/stock/carousal/2018carousal4.jpg" alt="Indian Academy of Sciences">
-                        <!-- <div class="override-carousel-caption pos-2-3-left scheme-dark">
+                        <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
-                                <h3 class="caption-title">Indian Academy of Sciences</h3>
-                                <p>The Indian Academy of Sciences, founded as a Society by Professor C. V. Raman on 27 April 1934, aims to promote the advancement of science in both pure and applied branches through the support of original research and the dissemination of scientific knowledge to the community.</p>
+                                <h3>84<sup>th</sup> Annual Meeting - 2018</h3>
+                                <p>Event Glimpses</p>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                     <div class="item">
                         <img src="<?=PUBLIC_URL?>images/stock/carousal/2018carousal5.jpg" alt="Indian Academy of Sciences">
-                        <!-- <div class="override-carousel-caption pos-2-3-left scheme-dark">
+                        <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
-                                <h3 class="caption-title">Indian Academy of Sciences</h3>
-                                <p>The Indian Academy of Sciences, founded as a Society by Professor C. V. Raman on 27 April 1934, aims to promote the advancement of science in both pure and applied branches through the support of original research and the dissemination of scientific knowledge to the community.</p>
+                                <h3>84<sup>th</sup> Annual Meeting - 2018</h3>
+                                <p>Event Glimpses</p>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 <div class="item">
                         <img src="<?=PUBLIC_URL?>images/stock/carousal/2018carousal6.jpg" alt="Indian Academy of Sciences">
-                        <!-- <div class="override-carousel-caption pos-2-3-left scheme-dark">
+                        <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
-                                <h3 class="caption-title">Indian Academy of Sciences</h3>
-                                <p>The Indian Academy of Sciences, founded as a Society by Professor C. V. Raman on 27 April 1934, aims to promote the advancement of science in both pure and applied branches through the support of original research and the dissemination of scientific knowledge to the community.</p>
+                                <h3>84<sup>th</sup> Annual Meeting - 2018</h3>
+                                <p>Event Glimpses</p>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 <div class="item">
                         <img src="<?=PUBLIC_URL?>images/stock/carousal/2018carousal7.jpg" alt="Indian Academy of Sciences">
-                        <!-- <div class="override-carousel-caption pos-2-3-left scheme-dark">
+                        <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
-                                <h3 class="caption-title">Indian Academy of Sciences</h3>
-                                <p>The Indian Academy of Sciences, founded as a Society by Professor C. V. Raman on 27 April 1934, aims to promote the advancement of science in both pure and applied branches through the support of original research and the dissemination of scientific knowledge to the community.</p>
+                                <h3>84<sup>th</sup> Annual Meeting - 2018</h3>
+                                <p>Event Glimpses</p>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
                 <!-- Left and right controls -->
